@@ -31,7 +31,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-![Product Name Screen Shot](https://github.com/Zeeshanahmad4/BOT--Hydrafacial/blob/master/hjjhjjhhghgcghdhfdhgd.jpg)
+![Product Name Screen Shot](https://github.com/Zeeshanahmad4/BOT-Scraper-costco.com/blob/master/hjjhjjhhghgcghdhfdhgd.jpg)
 
 
 ### Built With
