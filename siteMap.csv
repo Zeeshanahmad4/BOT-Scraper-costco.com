@@ -1,0 +1,639 @@
+	Category_Link	Category_Name	Sub_Category_Link	Sub_Category_Name	Sub_Sub_Category_Link	Sub_Sub_Category_Name
+0	https://www.costco.com/electronics.html	Electronics	https://www.costco.com/televisions.html	TVs	https://www.costco.com/75-inch-tvs-and-above.html	75 in &amp; Above TVs
+1	https://www.costco.com/electronics.html	Electronics	https://www.costco.com/televisions.html	TVs	https://www.costco.com/70-inch-tvs-and-above.html	70 in TVs
+2	https://www.costco.com/electronics.html	Electronics	https://www.costco.com/televisions.html	TVs	https://www.costco.com/60-inch-tvs-through-69-inch-tvs.html	65 in TVs
+3	https://www.costco.com/electronics.html	Electronics	https://www.costco.com/televisions.html	TVs	https://www.costco.com/58-inch-tvs-through-60-inch-tvs.html	58 in - 60 in TVs
+4	https://www.costco.com/electronics.html	Electronics	https://www.costco.com/televisions.html	TVs	https://www.costco.com/55-inch-tvs-through-59-inch-tvs.html	55 in TVs
+5	https://www.costco.com/electronics.html	Electronics	https://www.costco.com/televisions.html	TVs	https://www.costco.com/44-inch-tvs-through-50-inch-tvs.html	48 in - 50 in TVs
+6	https://www.costco.com/electronics.html	Electronics	https://www.costco.com/televisions.html	TVs	https://www.costco.com/39-inch-tvs-through-43-inch-tvs.html	40 in - 43 in TVs
+7	https://www.costco.com/electronics.html	Electronics	https://www.costco.com/televisions.html	TVs	https://www.costco.com/32-inch-tvs-and-below.html	32 in &amp; Below TVs
+8	https://www.costco.com/electronics.html	Electronics	https://www.costco.com/televisions.html	TVs	https://www.costco.com/mounts-cables.html	TV Mounts, Cables &amp; Accessories
+9	https://www.costco.com/electronics.html	Electronics	https://www.costco.com/audio-video.html	Audio/Video	https://www.costco.com/home-theater-systems.html	Soundbars &amp; Home Theater
+10	https://www.costco.com/electronics.html	Electronics	https://www.costco.com/audio-video.html	Audio/Video	https://www.costco.com/speakers.html	Speakers &amp; Voice Assistants
+11	https://www.costco.com/electronics.html	Electronics	https://www.costco.com/audio-video.html	Audio/Video	https://www.costco.com/headphones.html	Headphones
+12	https://www.costco.com/electronics.html	Electronics	https://www.costco.com/audio-video.html	Audio/Video	https://www.costco.com/media-players.html	Streaming Blu-Ray Players
+13	https://www.costco.com/electronics.html	Electronics	https://www.costco.com/audio-video.html	Audio/Video	https://www.costco.com/projectors-screens.html	Projectors
+14	https://www.costco.com/electronics.html	Electronics	https://www.costco.com/cell-phones.html	Cell Phones	https://www.costco.com/cell-phone-chargers-batteries.html	Accessories &amp; Chargers
+15	https://www.costco.com/electronics.html	Electronics	https://www.costco.com/cell-phones.html	Cell Phones	https://www.costco.com/cellular-phones.html	Unlocked Cell Phones
+16	https://www.costco.com/electronics.html	Electronics	https://www.costco.com/cameras-camcorders.html	Cameras &amp; Camcorders	https://www.costco.com/all-digital-cameras.html	All Digital Cameras
+17	https://www.costco.com/electronics.html	Electronics	https://www.costco.com/cameras-camcorders.html	Cameras &amp; Camcorders	https://www.costco.com/digital-slr-cameras.html	Digital SLR Cameras
+18	https://www.costco.com/electronics.html	Electronics	https://www.costco.com/cameras-camcorders.html	Cameras &amp; Camcorders	https://www.costco.com/point-shoot-cameras.html	Point &amp; Shoot Cameras
+19	https://www.costco.com/electronics.html	Electronics	https://www.costco.com/cameras-camcorders.html	Cameras &amp; Camcorders	https://www.costco.com/weatherproof-cameras.html	Weatherproof Cameras
+20	https://www.costco.com/electronics.html	Electronics	https://www.costco.com/cameras-camcorders.html	Cameras &amp; Camcorders	https://www.costco.com/action-cameras.html	Action Cameras
+21	https://www.costco.com/electronics.html	Electronics	https://www.costco.com/cameras-camcorders.html	Cameras &amp; Camcorders	https://www.costco.com/camcorders.html	Camcorders
+22	https://www.costco.com/electronics.html	Electronics	https://www.costco.com/cameras-camcorders.html	Cameras &amp; Camcorders	https://www.costco.com/camera-accessories.html	Camera Accessories
+23	https://www.costco.com/electronics.html	Electronics	https://www.costco.com/video-games.html	Video Games	https://www.costco.com/nintendo.html	Nintendo Switch
+24	https://www.costco.com/electronics.html	Electronics	https://www.costco.com/video-games.html	Video Games	https://www.costco.com/xbox-one.html	XBOX One
+25	https://www.costco.com/electronics.html	Electronics	https://www.costco.com/video-games.html	Video Games	https://www.costco.com/playstation.html	PlayStation 4
+26	https://www.costco.com/electronics.html	Electronics	https://www.costco.com/video-games.html	Video Games	https://www.costco.com/accessories-games.html	Accessories
+27	https://www.costco.com/electronics.html	Electronics	https://www.costco.com/security-surveillance.html	Security &amp; Surveillance	https://www.costco.com/surveillance-systems.html	All Surveillance Systems
+28	https://www.costco.com/electronics.html	Electronics	https://www.costco.com/security-surveillance.html	Security &amp; Surveillance	https://www.costco.com/wireless-surveillance.html	Wireless Surveillance
+29	https://www.costco.com/electronics.html	Electronics	https://www.costco.com/security-surveillance.html	Security &amp; Surveillance	https://www.costco.com/hd-ip-nvr-security-systems.html	HD IP NVR Systems
+30	https://www.costco.com/electronics.html	Electronics	https://www.costco.com/security-surveillance.html	Security &amp; Surveillance	https://www.costco.com/analog-security-systems.html	Analog Security Systems
+31	https://www.costco.com/electronics.html	Electronics	https://www.costco.com/security-surveillance.html	Security &amp; Surveillance	https://www.costco.com/security-cameras-accessories.html	Camera System Accessories
+32	https://www.costco.com/electronics.html	Electronics	https://www.costco.com/phones-two-way-radios.html	Phones &amp; Two-way Radios	https://www.costco.com/business-systems.html	Business Systems
+33	https://www.costco.com/electronics.html	Electronics	https://www.costco.com/phones-two-way-radios.html	Phones &amp; Two-way Radios	https://www.costco.com/cordless-telephones.html	Cordless Telephones
+34	https://www.costco.com/electronics.html	Electronics	https://www.costco.com/phones-two-way-radios.html	Phones &amp; Two-way Radios	https://www.costco.com/voip-telephones.html	VoIP Telephones
+35	https://www.costco.com/electronics.html	Electronics	https://www.costco.com/musical-instruments.html	Musical Instruments	https://www.costco.com/pianos.html	Pianos &amp; Keyboards
+36	https://www.costco.com/electronics.html	Electronics	https://www.costco.com/musical-instruments.html	Musical Instruments	https://www.costco.com/string-instruments.html	Guitars &amp; Drums
+37	https://www.costco.com/electronics.html	Electronics	https://www.costco.com/musical-instruments.html	Musical Instruments	https://www.costco.com/karaoke.html	Karaoke
+38	https://www.costco.com/electronics.html	Electronics	https://www.costco.com/musical-instruments.html	Musical Instruments	https://www.costco.com/band-instruments.html	Band Instruments
+39	https://www.costco.com/electronics.html	Electronics	https://www.costco.com/apple-brand-showcase.html	Apple Devices	https://www.costco.com/itunes-gift-cards.html	App Store and iTunes Codes
+40	https://www.costco.com/electronics.html	Electronics	https://www.costco.com/apple-brand-showcase.html	Apple Devices	https://www.costco.com/ipad.html	iPad
+41	https://www.costco.com/electronics.html	Electronics	https://www.costco.com/apple-brand-showcase.html	Apple Devices	https://www.costco.com/apple-watch.html	Apple Watch
+42	https://www.costco.com/computers.html	Computers	https://www.costco.com/laptops.html	Laptops	https://www.costco.com/pc-laptops.html	PC Laptops
+43	https://www.costco.com/computers.html	Computers	https://www.costco.com/laptops.html	Laptops	https://www.costco.com/chromebooks.html	Chromebooks
+44	https://www.costco.com/computers.html	Computers	https://www.costco.com/laptops.html	Laptops	https://www.costco.com/macbooks.html	MacBooks
+45	https://www.costco.com/computers.html	Computers	https://www.costco.com/desktops-servers.html	Desktops	https://www.costco.com/pc-desktops.html	PC Desktops
+46	https://www.costco.com/computers.html	Computers	https://www.costco.com/desktops-servers.html	Desktops	https://www.costco.com/imac.html	iMac
+47	https://www.costco.com/computers.html	Computers	https://www.costco.com/tablet-computers-accessories.html	iPads &amp; Tablets	https://www.costco.com/iPad-tablet-accessories.html	iPad &amp; Tablet Accessories
+48	https://www.costco.com/computers.html	Computers	https://www.costco.com/tablet-computers-accessories.html	iPads &amp; Tablets	https://www.costco.com/tablet-computers.html	Tablets
+49	https://www.costco.com/computers.html	Computers	https://www.costco.com/computer-accessories.html	Computer Accessories	https://www.costco.com/keyboards-mice-input-devices.html	Keyboards, Mice &amp; Input Devices
+50	https://www.costco.com/computers.html	Computers	https://www.costco.com/computer-accessories.html	Computer Accessories	https://www.costco.com/surge-protectors-ups.html	Surge Protectors &amp; UPS
+51	https://www.costco.com/computers.html	Computers	https://www.costco.com/computer-accessories.html	Computer Accessories	https://www.costco.com/computer-speakers.html	Computer Speakers
+52	https://www.costco.com/computers.html	Computers	https://www.costco.com/printers-all-in-ones-scanners.html	Printers	https://www.costco.com/all-printers.html	All Printers
+53	https://www.costco.com/computers.html	Computers	https://www.costco.com/printers-all-in-ones-scanners.html	Printers	https://www.costco.com/inkjet-printers.html	Inkjet Printers
+54	https://www.costco.com/computers.html	Computers	https://www.costco.com/printers-all-in-ones-scanners.html	Printers	https://www.costco.com/laser-printers.html	Laser Printers
+55	https://www.costco.com/computers.html	Computers	https://www.costco.com/hard-drives-memory.html	Hard Drives &amp; Memory	https://www.costco.com/external-hard-drives.html	External &amp; Portable Hard Drives
+56	https://www.costco.com/computers.html	Computers	https://www.costco.com/hard-drives-memory.html	Hard Drives &amp; Memory	https://www.costco.com/solid-state-drives.html	Solid State Drives
+57	https://www.costco.com/computers.html	Computers	https://www.costco.com/hard-drives-memory.html	Hard Drives &amp; Memory	https://www.costco.com/usb-flash-drives.html	USB Flash Drives
+58	https://www.costco.com/computers.html	Computers	https://www.costco.com/software.html	Software	https://www.costco.com/business-office-finance.html	Business, Office &amp; Finance
+59	https://www.costco.com/computers.html	Computers	https://www.costco.com/software.html	Software	https://www.costco.com/microsoft.html	Microsoft
+60	https://www.costco.com/computers.html	Computers	https://www.costco.com/software.html	Software	https://www.costco.com/security-utilities.html	Security &amp; Utilities
+61	https://www.costco.com/appliances.html	Appliances	https://www.costco.com/refrigerators.html	Refrigerators	https://www.costco.com/french-door-refrigerators.html	French Door Refrigerators
+62	https://www.costco.com/appliances.html	Appliances	https://www.costco.com/refrigerators.html	Refrigerators	https://www.costco.com/refrigerators-bottom-mount-door.html	Bottom Freezer Refrigerators
+63	https://www.costco.com/appliances.html	Appliances	https://www.costco.com/refrigerators.html	Refrigerators	https://www.costco.com/top-mount-refrigerators.html	Top Freezer Refrigerators
+64	https://www.costco.com/appliances.html	Appliances	https://www.costco.com/refrigerators.html	Refrigerators	https://www.costco.com/refrigerators-side-by-side.html	Side-By-Side Refrigerators
+65	https://www.costco.com/appliances.html	Appliances	https://www.costco.com/refrigerators.html	Refrigerators	https://www.costco.com/compact-refrigerators.html	Mini Fridges &amp; Compact Refrigerators
+66	https://www.costco.com/appliances.html	Appliances	https://www.costco.com/laundry-appliances.html	Washers &amp; Dryers	https://www.costco.com/laundry-suites-gas.html	Washer Dryer Packages with Gas Dryer
+67	https://www.costco.com/appliances.html	Appliances	https://www.costco.com/laundry-appliances.html	Washers &amp; Dryers	https://www.costco.com/laundry-suites-electric.html	Washer Dryer Packages with Electric Dryer
+68	https://www.costco.com/appliances.html	Appliances	https://www.costco.com/laundry-appliances.html	Washers &amp; Dryers	https://www.costco.com/washer-dryer-combo.html	Washer Dryer Combo
+69	https://www.costco.com/appliances.html	Appliances	https://www.costco.com/laundry-appliances.html	Washers &amp; Dryers	https://www.costco.com/washers.html	Washing Machines
+70	https://www.costco.com/appliances.html	Appliances	https://www.costco.com/laundry-appliances.html	Washers &amp; Dryers	https://www.costco.com/electric-dryers.html	Electric Dryers
+71	https://www.costco.com/appliances.html	Appliances	https://www.costco.com/laundry-appliances.html	Washers &amp; Dryers	https://www.costco.com/gas-dryers.html	Gas Dryers
+72	https://www.costco.com/appliances.html	Appliances	https://www.costco.com/cooking-appliances.html	Cooking Appliances	https://www.costco.com/ranges.html	Ranges
+73	https://www.costco.com/appliances.html	Appliances	https://www.costco.com/cooking-appliances.html	Cooking Appliances	https://www.costco.com/range-hoods.html	Range Hoods
+74	https://www.costco.com/appliances.html	Appliances	https://www.costco.com/cooking-appliances.html	Cooking Appliances	https://www.costco.com/cooktops.html	Cooktops
+75	https://www.costco.com/appliances.html	Appliances	https://www.costco.com/cooking-appliances.html	Cooking Appliances	https://www.costco.com/wall-ovens.html	Wall Ovens
+76	https://www.costco.com/appliances.html	Appliances	https://www.costco.com/kitchen-suites.html	Kitchen Appliance Packages	https://www.costco.com/electric-kitchen.html	Electric Kitchen Appliance Packages
+77	https://www.costco.com/appliances.html	Appliances	https://www.costco.com/kitchen-suites.html	Kitchen Appliance Packages	https://www.costco.com/gas-kitchen.html	Gas Kitchen Appliance Packages
+78	https://www.costco.com/appliances.html	Appliances	https://www.costco.com/cooling-air-treatment-heating.html	Cooling, Air Treatment &amp; Heating	https://www.costco.com/dehumidifiers.html	Dehumidifiers
+79	https://www.costco.com/appliances.html	Appliances	https://www.costco.com/cooling-air-treatment-heating.html	Cooling, Air Treatment &amp; Heating	https://www.costco.com/air-purifiers.html	Air Purifiers &amp; Filters
+80	https://www.costco.com/appliances.html	Appliances	https://www.costco.com/cooling-air-treatment-heating.html	Cooling, Air Treatment &amp; Heating	https://www.costco.com/fans.html	Fans
+81	https://www.costco.com/appliances.html	Appliances	https://www.costco.com/cooling-air-treatment-heating.html	Cooling, Air Treatment &amp; Heating	https://www.costco.com/humidifiers.html	Humidifiers
+82	https://www.costco.com/appliances.html	Appliances	https://www.costco.com/cooling-air-treatment-heating.html	Cooling, Air Treatment &amp; Heating	https://www.costco.com/air-conditioners.html	Air Conditioners
+83	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/living-room.html	Living Room Furniture	https://www.costco.com/sofas-couches.html	Sofas &amp; Couches
+84	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/living-room.html	Living Room Furniture	https://www.costco.com/living-room-sets.html	Living Room Sets
+85	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/living-room.html	Living Room Furniture	https://www.costco.com/sofas-sectionals.html	Sectional Sofas
+86	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/living-room.html	Living Room Furniture	https://www.costco.com/futons-loungers.html	Sofa Beds &amp; Futons
+87	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/living-room.html	Living Room Furniture	https://www.costco.com/chairs.html	Living Room Chairs
+88	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/living-room.html	Living Room Furniture	https://www.costco.com/recliners.html	Recliners
+89	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/living-room.html	Living Room Furniture	https://www.costco.com/ottomans-benches.html	Ottomans &amp; Benches
+90	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/living-room.html	Living Room Furniture	https://www.costco.com/occasional-tables.html	Accent &amp; Coffee Tables
+91	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/living-room.html	Living Room Furniture	https://www.costco.com/chests.html	Living Room Cabinets &amp; Chests
+92	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/living-room.html	Living Room Furniture	https://www.costco.com/entertainment-centers-TV-stands.html	Entertainment Centers &amp; TV Stands
+93	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/mattresses.html	Mattresses	https://www.costco.com/cal-king-mattresses.html	Cal King Mattresses
+94	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/mattresses.html	Mattresses	https://www.costco.com/king-mattresses.html	King Mattresses
+95	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/mattresses.html	Mattresses	https://www.costco.com/queen-mattresses.html	Queen Mattresses
+96	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/mattresses.html	Mattresses	https://www.costco.com/full-mattresses.html	Full Mattresses
+97	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/mattresses.html	Mattresses	https://www.costco.com/twin-mattresses.html	Twin Mattresses
+98	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/mattresses.html	Mattresses	https://www.costco.com/adjustable-beds.html	Adjustable Beds
+99	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/mattresses.html	Mattresses	https://www.costco.com/mattress-collections.html	Mattress Collections
+100	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/mattresses.html	Mattresses	https://www.costco.com/bed-frames.html	Bed Frames
+101	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/bedroom-furniture.html	Bedroom Furniture	https://www.costco.com/bedroom-collections.html	Bedroom Collections
+102	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/bedroom-furniture.html	Bedroom Furniture	https://www.costco.com/king-bedroom-sets.html	King Bedroom Sets
+103	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/bedroom-furniture.html	Bedroom Furniture	https://www.costco.com/cal-king-bedroom-sets.html	Cal King Bedroom Sets
+104	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/bedroom-furniture.html	Bedroom Furniture	https://www.costco.com/queen-bedroom-sets.html	Queen Bedroom Sets
+105	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/bedroom-furniture.html	Bedroom Furniture	https://www.costco.com/bedroom-furniture-beds.html	Beds &amp; Bed Frames
+106	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/bedroom-furniture.html	Bedroom Furniture	https://www.costco.com/headboards.html	Headboards
+107	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/bedroom-furniture.html	Bedroom Furniture	https://www.costco.com/wall-beds.html	Wall Beds
+108	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/bedroom-furniture.html	Bedroom Furniture	https://www.costco.com/bedroom-furniture-chests-dressers.html	Bedroom Chests &amp; Dressers
+109	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/bedroom-furniture.html	Bedroom Furniture	https://www.costco.com/bedroom-furniture-nightstands.html	Bedside Tables &amp; Nightstands
+110	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/dining-kitchen.html	Dining &amp; Kitchen Furniture	https://www.costco.com/dining-collections.html	Dining Room Sets
+111	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/dining-kitchen.html	Dining &amp; Kitchen Furniture	https://www.costco.com/dining-tables.html	Kitchen &amp; Dining Tables
+112	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/dining-kitchen.html	Dining &amp; Kitchen Furniture	https://www.costco.com/dining-chairs.html	Dining Room Chairs
+113	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/dining-kitchen.html	Dining &amp; Kitchen Furniture	https://www.costco.com/barstools.html	Barstools
+114	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/dining-kitchen.html	Dining &amp; Kitchen Furniture	https://www.costco.com/accent-furniture-bars.html	Bars &amp; Wine Cabinets
+115	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/dining-kitchen.html	Dining &amp; Kitchen Furniture	https://www.costco.com/kitchen-carts-islands.html	Kitchen Islands &amp; Carts
+116	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/dining-kitchen.html	Dining &amp; Kitchen Furniture	https://www.costco.com/servers-buffets.html	Display Cabinets &amp; Kitchen Servers
+117	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/office-furniture.html	Office Furniture	https://www.costco.com/office-furniture-collections.html	Office Furniture Sets
+118	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/office-furniture.html	Office Furniture	https://www.costco.com/desks-workstations.html	Office Desks &amp; Workstations
+119	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/office-furniture.html	Office Furniture	https://www.costco.com/office-chairs.html	Office &amp; Computer Chairs
+120	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/office-furniture.html	Office Furniture	https://www.costco.com/tables.html	Conference &amp; Folding Tables
+121	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/office-furniture.html	Office Furniture	https://www.costco.com/filing-cabinets.html	Filing &amp; Office Cabinets
+122	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/office-furniture.html	Office Furniture	https://www.costco.com/office-furniture-bookcases.html	Office Bookshelves &amp; Bookcases
+123	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/office-furniture.html	Office Furniture	https://www.costco.com/cubicles-panel-systems.html	Cubicles &amp; Panel Systems
+124	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/office-furniture.html	Office Furniture	https://www.costco.com/storage-cabinets-shelving-units.html	Storage Cabinets &amp; Shelving Units
+125	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/youth-furniture.html	Kid's Furniture	https://www.costco.com/kids-collections.html	Kids' Collections
+126	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/youth-furniture.html	Kid's Furniture	https://www.costco.com/full-bedroom-sets.html	Full Bedroom Sets
+127	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/youth-furniture.html	Kid's Furniture	https://www.costco.com/bunk-beds.html	Bunk Beds
+128	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/youth-furniture.html	Kid's Furniture	https://www.costco.com/twin-bedroom-sets.html	Twin Bedroom Sets
+129	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/youth-furniture.html	Kid's Furniture	https://www.costco.com/beds.html	Kids' &amp; Youth Beds
+130	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/youth-furniture.html	Kid's Furniture	https://www.costco.com/youth-furniture-chests-dressers.html	Kids' Dressers
+131	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/youth-furniture.html	Kid's Furniture	https://www.costco.com/youth-furniture-nightstands.html	Kids' Bedside Tables &amp; Nightstands
+132	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/youth-furniture.html	Kid's Furniture	https://www.costco.com/youth-furniture-bookcases.html	Kids' Desks &amp; Bookcases
+133	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/youth-furniture.html	Kid's Furniture	https://www.costco.com/daycare-learning.html	Daycare &amp; Playroom Furniture
+134	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/youth-furniture.html	Kid's Furniture	https://www.costco.com/bean-bag-chairs.html	Bean Bag &amp; Gaming Chairs
+135	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/nursery-furniture-decor.html	Nursery Furniture	https://www.costco.com/crib-mattresses.html	Crib Mattresses
+136	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/nursery-furniture-decor.html	Nursery Furniture	https://www.costco.com/nursery-furniture-collections.html	Nursery Furniture Sets
+137	https://www.costco.com/furniture.html	Furniture &amp; Mattresses	https://www.costco.com/fireplaces.html	Fireplaces &amp; Stoves	https://www.costco.com/fireplaces-stoves-accessories.html	Stoves &amp; Accessories
+138	https://www.costco.com/auto-tires.html	Tires &amp; Auto	https://www.costco.com/atv-golf-trailer-tires.html	ATV, Golf &amp; Trailer Tires	https://www.costco.com/atv-tires.html	ATV Tires
+139	https://www.costco.com/auto-tires.html	Tires &amp; Auto	https://www.costco.com/atv-golf-trailer-tires.html	ATV, Golf &amp; Trailer Tires	https://www.costco.com/golf-tires.html	Golf Tires
+140	https://www.costco.com/auto-tires.html	Tires &amp; Auto	https://www.costco.com/atv-golf-trailer-tires.html	ATV, Golf &amp; Trailer Tires	https://www.costco.com/trailer-tires.html	Trailer Tires
+141	https://www.costco.com/auto-tires.html	Tires &amp; Auto	https://www.costco.com/auto-truck-accessories.html	Auto &amp; Truck Accessories	https://www.costco.com/cargo-storage-racks.html	Cargo Storage &amp; Racks
+142	https://www.costco.com/auto-tires.html	Tires &amp; Auto	https://www.costco.com/auto-truck-accessories.html	Auto &amp; Truck Accessories	https://www.costco.com/seat-covers-floor-mats.html	Seat Covers &amp; Floor Mats
+143	https://www.costco.com/auto-tires.html	Tires &amp; Auto	https://www.costco.com/auto-truck-accessories.html	Auto &amp; Truck Accessories	https://www.costco.com/car-truck-emergency-kits.html	Emergency Kits
+144	https://www.costco.com/auto-tires.html	Tires &amp; Auto	https://www.costco.com/auto-truck-accessories.html	Auto &amp; Truck Accessories	https://www.costco.com/truck-accessories.html	Truck Accessories
+145	https://www.costco.com/auto-tires.html	Tires &amp; Auto	https://www.costco.com/auto-truck-accessories.html	Auto &amp; Truck Accessories	https://www.costco.com/automotive-lighting.html	Automotive Lighting
+146	https://www.costco.com/auto-tires.html	Tires &amp; Auto	https://www.costco.com/auto-truck-accessories.html	Auto &amp; Truck Accessories	https://www.costco.com/interior-accessories.html	Interior Accessories
+147	https://www.costco.com/auto-tires.html	Tires &amp; Auto	https://www.costco.com/auto-truck-accessories.html	Auto &amp; Truck Accessories	https://www.costco.com/exterior-accessories.html	Exterior Accessories
+148	https://www.costco.com/auto-tires.html	Tires &amp; Auto	https://www.costco.com/auto-truck-accessories.html	Auto &amp; Truck Accessories	https://www.costco.com/rv-trailers-towing.html	Trailers &amp; Towing
+149	https://www.costco.com/auto-tires.html	Tires &amp; Auto	https://www.costco.com/auto-truck-accessories.html	Auto &amp; Truck Accessories	https://www.costco.com/power-inverters-chargers.html	Power Inverters &amp; Chargers
+150	https://www.costco.com/auto-tires.html	Tires &amp; Auto	https://www.costco.com/auto-truck-accessories.html	Auto &amp; Truck Accessories	https://www.costco.com/wiper-blades.html	Wiper Blades
+151	https://www.costco.com/auto-tires.html	Tires &amp; Auto	https://www.costco.com/automotive-garage.html	Garage &amp; Shop Accessories	https://www.costco.com/carports.html	Carports &amp; Garages
+152	https://www.costco.com/auto-tires.html	Tires &amp; Auto	https://www.costco.com/automotive-garage.html	Garage &amp; Shop Accessories	https://www.costco.com/auto-lifts-jacks.html	Lifts &amp; Jacks
+153	https://www.costco.com/auto-tires.html	Tires &amp; Auto	https://www.costco.com/automotive-garage.html	Garage &amp; Shop Accessories	https://www.costco.com/utility-carts.html	Utility Carts
+154	https://www.costco.com/auto-tires.html	Tires &amp; Auto	https://www.costco.com/automotive-garage.html	Garage &amp; Shop Accessories	https://www.costco.com/tools-equipment.html	Tools &amp; Equipment
+155	https://www.costco.com/holiday-gifts.html	Floral, Gifts &amp; Books	https://www.costco.com/floral.html	Floral	https://www.costco.com/wedding-event-flowers.html	Wedding &amp; Event Flowers
+156	https://www.costco.com/holiday-gifts.html	Floral, Gifts &amp; Books	https://www.costco.com/floral.html	Floral	https://www.costco.com/bulk-flowers.html	Bulk Flowers
+157	https://www.costco.com/holiday-gifts.html	Floral, Gifts &amp; Books	https://www.costco.com/floral.html	Floral	https://www.costco.com/roses.html	Roses
+158	https://www.costco.com/holiday-gifts.html	Floral, Gifts &amp; Books	https://www.costco.com/floral.html	Floral	https://www.costco.com/bouquets.html	Bouquets
+159	https://www.costco.com/holiday-gifts.html	Floral, Gifts &amp; Books	https://www.costco.com/floral.html	Floral	https://www.costco.com/floral-arrangements.html	Vase Arrangements
+160	https://www.costco.com/holiday-gifts.html	Floral, Gifts &amp; Books	https://www.costco.com/floral.html	Floral	https://www.costco.com/special-occasions.html	Occasions
+161	https://www.costco.com/holiday-gifts.html	Floral, Gifts &amp; Books	https://www.costco.com/floral.html	Floral	https://www.costco.com/next-business-day-delivery.html	Next Business Day Delivery
+162	https://www.costco.com/holiday-gifts.html	Floral, Gifts &amp; Books	https://www.costco.com/gift-baskets.html	Gift Baskets	https://www.costco.com/all-gift-baskets-towers.html	All Gift Baskets &amp; Towers
+163	https://www.costco.com/holiday-gifts.html	Floral, Gifts &amp; Books	https://www.costco.com/gift-baskets.html	Gift Baskets	https://www.costco.com/fruit-gift-baskets-towers.html	Fruit &amp; Nut Gift Baskets
+164	https://www.costco.com/holiday-gifts.html	Floral, Gifts &amp; Books	https://www.costco.com/gift-baskets.html	Gift Baskets	https://www.costco.com/gift-baskets-towers-by-occasion.html	Gift Baskets &amp; Towers by Occasion
+165	https://www.costco.com/holiday-gifts.html	Floral, Gifts &amp; Books	https://www.costco.com/gift-baskets.html	Gift Baskets	https://www.costco.com/chocolate-gift-baskets.html	Chocolate Gifts
+166	https://www.costco.com/holiday-gifts.html	Floral, Gifts &amp; Books	https://www.costco.com/gift-baskets.html	Gift Baskets	https://www.costco.com/cake-cookie-gifts.html	Cake &amp; Cookie Gifts
+167	https://www.costco.com/holiday-gifts.html	Floral, Gifts &amp; Books	https://www.costco.com/gift-baskets.html	Gift Baskets	https://www.costco.com/deli-gift-collections.html	Deli &amp; Cheese Collections
+168	https://www.costco.com/holiday-gifts.html	Floral, Gifts &amp; Books	https://www.costco.com/gift-baskets.html	Gift Baskets	https://www.costco.com/popcorn-gift-baskets.html	Popcorn Gifts
+169	https://www.costco.com/holiday-gifts.html	Floral, Gifts &amp; Books	https://www.costco.com/gift-cards-tickets.html	Gift Cards &amp; Tickets	https://www.costco.com/cash-cards-gift-certificates.html	Cash Cards
+170	https://www.costco.com/holiday-gifts.html	Floral, Gifts &amp; Books	https://www.costco.com/gift-cards-tickets.html	Gift Cards &amp; Tickets	https://www.costco.com/all-gift-cards.html	All Gift Cards
+171	https://www.costco.com/holiday-gifts.html	Floral, Gifts &amp; Books	https://www.costco.com/gift-cards-tickets.html	Gift Cards &amp; Tickets	https://www.costco.com/movie-tickets.html	Movie Tickets
+172	https://www.costco.com/holiday-gifts.html	Floral, Gifts &amp; Books	https://www.costco.com/gift-cards-tickets.html	Gift Cards &amp; Tickets	https://www.costco.com/theme-parks.html	Theme &amp; Water Parks
+173	https://www.costco.com/holiday-gifts.html	Floral, Gifts &amp; Books	https://www.costco.com/gift-cards-tickets.html	Gift Cards &amp; Tickets	https://www.costco.com/getaways-tourist-attractions.html	Tourist &amp; City Attractions
+174	https://www.costco.com/holiday-gifts.html	Floral, Gifts &amp; Books	https://www.costco.com/gift-cards-tickets.html	Gift Cards &amp; Tickets	https://www.costco.com/gym-memberships-wellness.html	Gyms, Spas &amp; Weight Management
+175	https://www.costco.com/holiday-gifts.html	Floral, Gifts &amp; Books	https://www.costco.com/gift-cards-tickets.html	Gift Cards &amp; Tickets	https://www.costco.com/restaurant-gift-cards.html	Restaurant Gift Cards
+176	https://www.costco.com/holiday-gifts.html	Floral, Gifts &amp; Books	https://www.costco.com/gift-cards-tickets.html	Gift Cards &amp; Tickets	https://www.costco.com/gift-cards-for-kids.html	Gift Cards for Kids
+177	https://www.costco.com/holiday-gifts.html	Floral, Gifts &amp; Books	https://www.costco.com/gift-cards-tickets.html	Gift Cards &amp; Tickets	https://www.costco.com/broadway-shows.html	Theater, Shows &amp; Sports Events
+178	https://www.costco.com/holiday-gifts.html	Floral, Gifts &amp; Books	https://www.costco.com/gift-cards-tickets.html	Gift Cards &amp; Tickets	https://www.costco.com/tickets-gift-certificates-golf.html	Golf
+179	https://www.costco.com/holiday-gifts.html	Floral, Gifts &amp; Books	https://www.costco.com/books.html	Books	https://www.costco.com/gift-books-sets.html	Gift Books &amp; Sets
+180	https://www.costco.com/holiday-gifts.html	Floral, Gifts &amp; Books	https://www.costco.com/books.html	Books	https://www.costco.com/kids-books.html	Kids Books
+181	https://www.costco.com/jewelry.html	Jewelry, Watches &amp; Sunglasses	https://www.costco.com/rings.html	Rings	https://www.costco.com/diamond-rings.html	Diamond Rings
+182	https://www.costco.com/jewelry.html	Jewelry, Watches &amp; Sunglasses	https://www.costco.com/rings.html	Rings	https://www.costco.com/fancy-colored-diamonds.html	Fancy Colored Diamond Rings
+183	https://www.costco.com/jewelry.html	Jewelry, Watches &amp; Sunglasses	https://www.costco.com/rings.html	Rings	https://www.costco.com/gemstone-rings.html	Gemstone Rings
+184	https://www.costco.com/jewelry.html	Jewelry, Watches &amp; Sunglasses	https://www.costco.com/rings.html	Rings	https://www.costco.com/pearl-rings.html	Pearl Rings
+185	https://www.costco.com/jewelry.html	Jewelry, Watches &amp; Sunglasses	https://www.costco.com/rings.html	Rings	https://www.costco.com/mens-rings.html	Gold &amp; Platinum Bands
+186	https://www.costco.com/jewelry.html	Jewelry, Watches &amp; Sunglasses	https://www.costco.com/rings.html	Rings	https://www.costco.com/one-of-a-kind-rings.html	One-of-a-Kind Engagement Rings
+187	https://www.costco.com/jewelry.html	Jewelry, Watches &amp; Sunglasses	https://www.costco.com/earrings.html	Earrings	https://www.costco.com/one-of-a-kind-earrings.html	One-of-a-Kind Earrings
+188	https://www.costco.com/jewelry.html	Jewelry, Watches &amp; Sunglasses	https://www.costco.com/earrings.html	Earrings	https://www.costco.com/diamond-earrings.html	Diamond Earrings
+189	https://www.costco.com/jewelry.html	Jewelry, Watches &amp; Sunglasses	https://www.costco.com/earrings.html	Earrings	https://www.costco.com/gemstone-earrings.html	Gemstone Earrings
+190	https://www.costco.com/jewelry.html	Jewelry, Watches &amp; Sunglasses	https://www.costco.com/earrings.html	Earrings	https://www.costco.com/gold-earrings.html	Gold Earrings
+191	https://www.costco.com/jewelry.html	Jewelry, Watches &amp; Sunglasses	https://www.costco.com/earrings.html	Earrings	https://www.costco.com/pearl-earrings.html	Pearl Earrings
+192	https://www.costco.com/jewelry.html	Jewelry, Watches &amp; Sunglasses	https://www.costco.com/bracelets.html	Bracelets	https://www.costco.com/all-bracelets.html	All Bracelets
+193	https://www.costco.com/jewelry.html	Jewelry, Watches &amp; Sunglasses	https://www.costco.com/bracelets.html	Bracelets	https://www.costco.com/one-of-a-kind-bracelets.html	One-of-a-Kind Bracelets
+194	https://www.costco.com/jewelry.html	Jewelry, Watches &amp; Sunglasses	https://www.costco.com/bracelets.html	Bracelets	https://www.costco.com/diamond-bracelets.html	Diamond Bracelets
+195	https://www.costco.com/jewelry.html	Jewelry, Watches &amp; Sunglasses	https://www.costco.com/bracelets.html	Bracelets	https://www.costco.com/gemstone-bracelets.html	Gemstone Bracelets
+196	https://www.costco.com/jewelry.html	Jewelry, Watches &amp; Sunglasses	https://www.costco.com/bracelets.html	Bracelets	https://www.costco.com/pearl-bracelets.html	Pearl Bracelets
+197	https://www.costco.com/jewelry.html	Jewelry, Watches &amp; Sunglasses	https://www.costco.com/bracelets.html	Bracelets	https://www.costco.com/gold-bracelets.html	Gold Bracelets
+198	https://www.costco.com/jewelry.html	Jewelry, Watches &amp; Sunglasses	https://www.costco.com/necklaces.html	Necklaces	https://www.costco.com/gemstone-necklaces.html	Gemstone Necklaces
+199	https://www.costco.com/jewelry.html	Jewelry, Watches &amp; Sunglasses	https://www.costco.com/necklaces.html	Necklaces	https://www.costco.com/all-necklaces.html	All Necklaces
+200	https://www.costco.com/jewelry.html	Jewelry, Watches &amp; Sunglasses	https://www.costco.com/necklaces.html	Necklaces	https://www.costco.com/one-of-a-kind-necklaces.html	One-of-a-Kind Necklaces
+201	https://www.costco.com/jewelry.html	Jewelry, Watches &amp; Sunglasses	https://www.costco.com/necklaces.html	Necklaces	https://www.costco.com/diamond-necklaces.html	Diamond Necklaces
+202	https://www.costco.com/jewelry.html	Jewelry, Watches &amp; Sunglasses	https://www.costco.com/necklaces.html	Necklaces	https://www.costco.com/gold-necklaces.html	Gold Necklaces
+203	https://www.costco.com/jewelry.html	Jewelry, Watches &amp; Sunglasses	https://www.costco.com/necklaces.html	Necklaces	https://www.costco.com/pearl-necklaces.html	Pearl Necklaces
+204	https://www.costco.com/jewelry.html	Jewelry, Watches &amp; Sunglasses	https://www.costco.com/watches.html	Watches	https://www.costco.com/all-watches.html	All Watches
+205	https://www.costco.com/jewelry.html	Jewelry, Watches &amp; Sunglasses	https://www.costco.com/watches.html	Watches	https://www.costco.com/mens-watches.html	Men's Watches
+206	https://www.costco.com/jewelry.html	Jewelry, Watches &amp; Sunglasses	https://www.costco.com/watches.html	Watches	https://www.costco.com/womens-watches.html	Women's Watches
+207	https://www.costco.com/jewelry.html	Jewelry, Watches &amp; Sunglasses	https://www.costco.com/jewelry-boxes-cases.html	Jewelry Boxes &amp; Accessories	https://www.costco.com/jewelry-armoires.html	Jewelry Armoires
+208	https://www.costco.com/jewelry.html	Jewelry, Watches &amp; Sunglasses	https://www.costco.com/jewelry-boxes-cases.html	Jewelry Boxes &amp; Accessories	https://www.costco.com/jewelry-boxes.html	Jewelry Boxes
+209	https://www.costco.com/jewelry.html	Jewelry, Watches &amp; Sunglasses	https://www.costco.com/sunglasses.html	Sunglasses	https://www.costco.com/mens-sunglasses.html	Men's Sunglasses
+210	https://www.costco.com/jewelry.html	Jewelry, Watches &amp; Sunglasses	https://www.costco.com/sunglasses.html	Sunglasses	https://www.costco.com/womens-sunglasses.html	Women's Sunglasses
+211	https://www.costco.com/jewelry.html	Jewelry, Watches &amp; Sunglasses	https://www.costco.com/sunglasses.html	Sunglasses	https://www.costco.com/unisex-sunglasses.html	Unisex Sunglasses
+212	https://www.costco.com/patio-lawn-garden.html	Patio, Lawn &amp; Garden	https://www.costco.com/patio-furniture.html	Patio &amp; Outdoor Furniture	https://www.costco.com/patio-furniture-collections.html	Outdoor Patio Furniture Collections
+213	https://www.costco.com/patio-lawn-garden.html	Patio, Lawn &amp; Garden	https://www.costco.com/patio-furniture.html	Patio &amp; Outdoor Furniture	https://www.costco.com/patio-seating-sets.html	Outdoor Patio Seating Sets
+214	https://www.costco.com/patio-lawn-garden.html	Patio, Lawn &amp; Garden	https://www.costco.com/patio-furniture.html	Patio &amp; Outdoor Furniture	https://www.costco.com/dining-sets.html	Outdoor Patio Dining Sets
+215	https://www.costco.com/patio-lawn-garden.html	Patio, Lawn &amp; Garden	https://www.costco.com/patio-furniture.html	Patio &amp; Outdoor Furniture	https://www.costco.com/umbrellas.html	Outdoor Patio Umbrellas &amp; Shade
+216	https://www.costco.com/patio-lawn-garden.html	Patio, Lawn &amp; Garden	https://www.costco.com/patio-furniture.html	Patio &amp; Outdoor Furniture	https://www.costco.com/chaise-lounges.html	Outdoor Patio Chaise Lounges &amp; Daybeds
+217	https://www.costco.com/patio-lawn-garden.html	Patio, Lawn &amp; Garden	https://www.costco.com/patio-furniture.html	Patio &amp; Outdoor Furniture	https://www.costco.com/fireplaces-fire-pits.html	Outdoor Patio Fire Pits &amp; Chat Sets
+218	https://www.costco.com/patio-lawn-garden.html	Patio, Lawn &amp; Garden	https://www.costco.com/patio-furniture.html	Patio &amp; Outdoor Furniture	https://www.costco.com/bars-barstools.html	Outdoor Bar Stools &amp; Small Space Sets
+219	https://www.costco.com/patio-lawn-garden.html	Patio, Lawn &amp; Garden	https://www.costco.com/patio-furniture.html	Patio &amp; Outdoor Furniture	https://www.costco.com/benches-gliders-chairs.html	Adirondacks, Chairs, &amp; Garden Benches
+220	https://www.costco.com/patio-lawn-garden.html	Patio, Lawn &amp; Garden	https://www.costco.com/patio-furniture.html	Patio &amp; Outdoor Furniture	https://www.costco.com/deck-boxes.html	Deck Boxes &amp; Outdoor Storage Boxes
+221	https://www.costco.com/patio-lawn-garden.html	Patio, Lawn &amp; Garden	https://www.costco.com/patio-furniture.html	Patio &amp; Outdoor Furniture	https://www.costco.com/covers.html	Outdoor Patio Furniture Covers
+222	https://www.costco.com/patio-lawn-garden.html	Patio, Lawn &amp; Garden	https://www.costco.com/patio-furniture.html	Patio &amp; Outdoor Furniture	https://www.costco.com/custom-replacement-patio-cushions.html	Outdoor Patio Cushions
+223	https://www.costco.com/patio-lawn-garden.html	Patio, Lawn &amp; Garden	https://www.costco.com/patio-furniture.html	Patio &amp; Outdoor Furniture	https://www.costco.com/commercial-patio-furniture.html	Commercial Outdoor Patio Furniture
+224	https://www.costco.com/patio-lawn-garden.html	Patio, Lawn &amp; Garden	https://www.costco.com/outdoor-structures.html	Outdoor Structures	https://www.costco.com/canopies.html	Canopies
+225	https://www.costco.com/patio-lawn-garden.html	Patio, Lawn &amp; Garden	https://www.costco.com/outdoor-structures.html	Outdoor Structures	https://www.costco.com/gazebos.html	Gazebos
+226	https://www.costco.com/patio-lawn-garden.html	Patio, Lawn &amp; Garden	https://www.costco.com/outdoor-structures.html	Outdoor Structures	https://www.costco.com/greenhouses.html	Greenhouses
+227	https://www.costco.com/patio-lawn-garden.html	Patio, Lawn &amp; Garden	https://www.costco.com/outdoor-structures.html	Outdoor Structures	https://www.costco.com/pergolas.html	Pergolas
+228	https://www.costco.com/patio-lawn-garden.html	Patio, Lawn &amp; Garden	https://www.costco.com/outdoor-outdoor-play.html	Backyard Playground Equipment	https://www.costco.com/playsets.html	Outdoor Playsets &amp; Swing Sets
+229	https://www.costco.com/patio-lawn-garden.html	Patio, Lawn &amp; Garden	https://www.costco.com/outdoor-outdoor-play.html	Backyard Playground Equipment	https://www.costco.com/play-houses.html	Playhouses
+230	https://www.costco.com/patio-lawn-garden.html	Patio, Lawn &amp; Garden	https://www.costco.com/outdoor-outdoor-play.html	Backyard Playground Equipment	https://www.costco.com/sandboxes.html	Sandboxes
+231	https://www.costco.com/patio-lawn-garden.html	Patio, Lawn &amp; Garden	https://www.costco.com/outdoor-outdoor-play.html	Backyard Playground Equipment	https://www.costco.com/playground-mulch.html	Playground &amp; Rubber Mulch
+232	https://www.costco.com/patio-lawn-garden.html	Patio, Lawn &amp; Garden	https://www.costco.com/grills-accessories.html	Grills &amp; Accessories	https://www.costco.com/grills.html	Grills
+233	https://www.costco.com/patio-lawn-garden.html	Patio, Lawn &amp; Garden	https://www.costco.com/grills-accessories.html	Grills &amp; Accessories	https://www.costco.com/bbq-island-components.html	BBQ Islands &amp; Components
+234	https://www.costco.com/patio-lawn-garden.html	Patio, Lawn &amp; Garden	https://www.costco.com/grills-accessories.html	Grills &amp; Accessories	https://www.costco.com/bbq-grill-accessories.html	BBQ &amp; Grill Accessories
+235	https://www.costco.com/patio-lawn-garden.html	Patio, Lawn &amp; Garden	https://www.costco.com/grills-accessories.html	Grills &amp; Accessories	https://www.costco.com/smokers-fryers.html	Outdoor Ovens &amp; Smokers
+236	https://www.costco.com/patio-lawn-garden.html	Patio, Lawn &amp; Garden	https://www.costco.com/outdoor-heating-cooling.html	Outdoor Heating &amp; Cooling	https://www.costco.com/outdoor-heating-cooling-patio-heaters.html	Patio Heaters
+237	https://www.costco.com/patio-lawn-garden.html	Patio, Lawn &amp; Garden	https://www.costco.com/spas-pools.html	Hot Tubs, Spas &amp; Pools	https://www.costco.com/spas.html	Hot Tubs &amp; Spas
+238	https://www.costco.com/patio-lawn-garden.html	Patio, Lawn &amp; Garden	https://www.costco.com/spas-pools.html	Hot Tubs, Spas &amp; Pools	https://www.costco.com/pool-supplies.html	Pools &amp; Chemicals
+239	https://www.costco.com/patio-lawn-garden.html	Patio, Lawn &amp; Garden	https://www.costco.com/spas-pools.html	Hot Tubs, Spas &amp; Pools	https://www.costco.com/spa-accessories.html	Spa Accessories
+240	https://www.costco.com/patio-lawn-garden.html	Patio, Lawn &amp; Garden	https://www.costco.com/awnings-window-coverings.html	Awnings &amp; Window Coverings	https://www.costco.com/awnings.html	Awnings
+241	https://www.costco.com/patio-lawn-garden.html	Patio, Lawn &amp; Garden	https://www.costco.com/awnings-window-coverings.html	Awnings &amp; Window Coverings	https://www.costco.com/shades.html	Shades
+242	https://www.costco.com/patio-lawn-garden.html	Patio, Lawn &amp; Garden	https://www.costco.com/awnings-window-coverings.html	Awnings &amp; Window Coverings	https://www.costco.com/window-coverings.html	Window Coverings
+243	https://www.costco.com/patio-lawn-garden.html	Patio, Lawn &amp; Garden	https://www.costco.com/outdoor-power-equipment.html	Outdoor Power Equipment	https://www.costco.com/trimmers-blowers.html	Trimmers &amp; Blowers
+244	https://www.costco.com/patio-lawn-garden.html	Patio, Lawn &amp; Garden	https://www.costco.com/outdoor-power-equipment.html	Outdoor Power Equipment	https://www.costco.com/lawn-mowers.html	Lawn Mowers
+245	https://www.costco.com/patio-lawn-garden.html	Patio, Lawn &amp; Garden	https://www.costco.com/outdoor-power-equipment.html	Outdoor Power Equipment	https://www.costco.com/chain-saws.html	Chain Saws
+246	https://www.costco.com/patio-lawn-garden.html	Patio, Lawn &amp; Garden	https://www.costco.com/outdoor-power-equipment.html	Outdoor Power Equipment	https://www.costco.com/log-splitters.html	Log Splitters
+247	https://www.costco.com/patio-lawn-garden.html	Patio, Lawn &amp; Garden	https://www.costco.com/outdoor-power-equipment.html	Outdoor Power Equipment	https://www.costco.com/battery-packs-accessories.html	Battery Packs &amp; Accessories
+248	https://www.costco.com/patio-lawn-garden.html	Patio, Lawn &amp; Garden	https://www.costco.com/garden-center.html	Garden	https://www.costco.com/raised-garden-beds.html	Garden Beds
+249	https://www.costco.com/patio-lawn-garden.html	Patio, Lawn &amp; Garden	https://www.costco.com/garden-center.html	Garden	https://www.costco.com/composters.html	Composters
+250	https://www.costco.com/patio-lawn-garden.html	Patio, Lawn &amp; Garden	https://www.costco.com/garden-center.html	Garden	https://www.costco.com/outdoor-decor.html	Outdoor Décor &amp; Accessories
+251	https://www.costco.com/patio-lawn-garden.html	Patio, Lawn &amp; Garden	https://www.costco.com/garden-center.html	Garden	https://www.costco.com/garden-center-planters.html	Planters
+252	https://www.costco.com/patio-lawn-garden.html	Patio, Lawn &amp; Garden	https://www.costco.com/garden-center.html	Garden	https://www.costco.com/hose-reels-hoses.html	Hoses &amp; Accessories
+253	https://www.costco.com/patio-lawn-garden.html	Patio, Lawn &amp; Garden	https://www.costco.com/garden-center.html	Garden	https://www.costco.com/lawn-care.html	Lawn &amp; Plant Care
+254	https://www.costco.com/patio-lawn-garden.html	Patio, Lawn &amp; Garden	https://www.costco.com/garden-center.html	Garden	https://www.costco.com/pest-animal-control.html	Pest &amp; Animal Control
+255	https://www.costco.com/patio-lawn-garden.html	Patio, Lawn &amp; Garden	https://www.costco.com/landscaping.html	Landscaping	https://www.costco.com/artificial-grass.html	Artificial Grass &amp; Turf
+256	https://www.costco.com/patio-lawn-garden.html	Patio, Lawn &amp; Garden	https://www.costco.com/landscaping.html	Landscaping	https://www.costco.com/garden-center-ponds-fountains.html	Ponds &amp; Fountains
+257	https://www.costco.com/patio-lawn-garden.html	Patio, Lawn &amp; Garden	https://www.costco.com/landscaping.html	Landscaping	https://www.costco.com/sod.html	Sod
+258	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/installed-products.html	Installed Products &amp; Services	https://www.costco.com/window-treatment.html	Window Treatment
+259	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/installed-products.html	Installed Products &amp; Services	https://www.costco.com/carpet-hardwood-laminate-flooring.html	Carpet, Hardwood &amp; Laminate Flooring
+260	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/installed-products.html	Installed Products &amp; Services	https://www.costco.com/countertops.html	Countertops
+261	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/installed-products.html	Installed Products &amp; Services	https://www.costco.com/garage-doors.html	Garage Doors
+262	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/installed-products.html	Installed Products &amp; Services	https://www.costco.com/hvac.html	HVAC
+263	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/installed-products.html	Installed Products &amp; Services	https://www.costco.com/water-filtration.html	Water Treatment Systems
+264	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/installed-products.html	Installed Products &amp; Services	https://www.costco.com/residential-solar-systems.html	Residential Solar Systems
+265	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/home-alarm-systems-automation.html	Smart Home &amp; Safety	https://www.costco.com/smart-home-automation.html	Home Automation
+266	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/home-alarm-systems-automation.html	Smart Home &amp; Safety	https://www.costco.com/alarms-detectors.html	Alarms &amp; Detectors
+267	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/storage-organization.html	Storage &amp; Organization	https://www.costco.com/storage-organization-kitchen.html	Kitchen
+268	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/storage-organization.html	Storage &amp; Organization	https://www.costco.com/storage-organization-laundry.html	Laundry
+269	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/storage-organization.html	Storage &amp; Organization	https://www.costco.com/garage-racks.html	Garage Storage Racks
+270	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/storage-organization.html	Storage &amp; Organization	https://www.costco.com/storage-cabinets.html	Storage Cabinets
+271	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/storage-organization.html	Storage &amp; Organization	https://www.costco.com/storage-racks.html	Storage Shelves
+272	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/storage-organization.html	Storage &amp; Organization	https://www.costco.com/closet.html	Closet
+273	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/hardware-safes.html	Safes	https://www.costco.com/executive-vaults.html	Executive Vaults
+274	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/hardware-safes.html	Safes	https://www.costco.com/home-office.html	Home &amp; Office
+275	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/hardware-safes.html	Safes	https://www.costco.com/special-purpose.html	Special Purpose
+276	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/lighting.html	Lighting &amp; Light Bulbs	https://www.costco.com/ceiling-fans.html	Ceiling Fans
+277	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/lighting.html	Lighting &amp; Light Bulbs	https://www.costco.com/chandeliers.html	Chandeliers
+278	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/lighting.html	Lighting &amp; Light Bulbs	https://www.costco.com/flush-mount-semi-flush-mount.html	Ceiling Fixtures
+279	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/lighting.html	Lighting &amp; Light Bulbs	https://www.costco.com/light-bulbs.html	Light Bulbs
+280	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/lighting.html	Lighting &amp; Light Bulbs	https://www.costco.com/lighting-vanity-lighting.html	Bath Lighting
+281	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/lighting.html	Lighting &amp; Light Bulbs	https://www.costco.com/pendants.html	Pendant Lighting
+282	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/lighting.html	Lighting &amp; Light Bulbs	https://www.costco.com/undercabinet.html	Under-cabinet Lighting
+283	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/lighting.html	Lighting &amp; Light Bulbs	https://www.costco.com/outdoor-lighting.html	Outdoor Lighting
+284	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/hardware-bathroom.html	Bathroom Hardware	https://www.costco.com/bathroom-accessories.html	Bathroom Accessories
+285	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/hardware-bathroom.html	Bathroom Hardware	https://www.costco.com/bathroom-faucets.html	Faucets
+286	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/hardware-bathroom.html	Bathroom Hardware	https://www.costco.com/bathroom-vanity-lighting.html	Vanity Lighting
+287	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/hardware-bathroom.html	Bathroom Hardware	https://www.costco.com/bathtubs.html	Tubs
+288	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/hardware-bathroom.html	Bathroom Hardware	https://www.costco.com/showers.html	Showers
+289	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/hardware-bathroom.html	Bathroom Hardware	https://www.costco.com/sinks.html	Sinks
+290	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/hardware-bathroom.html	Bathroom Hardware	https://www.costco.com/toilets-washlets.html	Toilets &amp; Bidets
+291	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/hardware-bathroom.html	Bathroom Hardware	https://www.costco.com/vanities.html	Vanities
+292	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/hardware-kitchen.html	Kitchen Hardware	https://www.costco.com/cabinets.html	Cabinets
+293	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/hardware-kitchen.html	Kitchen Hardware	https://www.costco.com/garbage-disposals.html	Garbage Disposals
+294	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/hardware-kitchen.html	Kitchen Hardware	https://www.costco.com/kitchen-faucets.html	Faucets
+295	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/hardware-kitchen.html	Kitchen Hardware	https://www.costco.com/kitchen-sinks.html	Kitchen Sinks
+296	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/hardware-kitchen.html	Kitchen Hardware	https://www.costco.com/water-dispensers-filtration-water-filtration.html	Water Filtration Systems
+297	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/flooring.html	Flooring &amp; Tile	https://www.costco.com/installed-flooring.html	Installed Flooring
+298	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/flooring.html	Flooring &amp; Tile	https://www.costco.com/garage-flooring.html	Garage Flooring
+299	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/flooring.html	Flooring &amp; Tile	https://www.costco.com/laminate.html	Laminate Flooring
+300	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/flooring.html	Flooring &amp; Tile	https://www.costco.com/tile.html	Wall &amp; Floor Tile
+301	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/flooring.html	Flooring &amp; Tile	https://www.costco.com/carpet-tiles.html	Carpet &amp; Rubber Tile Flooring
+302	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/building-materials.html	Building Materials	https://www.costco.com/doors-door-hardware.html	Doors &amp; Door Hardware
+303	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/building-materials.html	Building Materials	https://www.costco.com/furnace-filters.html	Furnace Filters
+304	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/building-materials.html	Building Materials	https://www.costco.com/ventilation.html	Ventilation
+305	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/tools.html	Tools &amp; Hardware	https://www.costco.com/hand-tools.html	Hand Tools
+306	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/tools.html	Tools &amp; Hardware	https://www.costco.com/multitools-utility-knives.html	Multitools &amp; Utility Knives
+307	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/tools.html	Tools &amp; Hardware	https://www.costco.com/power-tools.html	Power Tools
+308	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/tools.html	Tools &amp; Hardware	https://www.costco.com/safetygear.html	Work Wear &amp; Safety Gear
+309	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/tools.html	Tools &amp; Hardware	https://www.costco.com/tools-ladders-stools-accessories.html	Ladders
+310	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/tools.html	Tools &amp; Hardware	https://www.costco.com/tool-storage-accessories.html	Tool Storage
+311	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/tools.html	Tools &amp; Hardware	https://www.costco.com/work-lights-flashlights.html	Flashlights &amp; Accessories
+312	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/alternative-power-solutions.html	Generators &amp; Power Solutions	https://www.costco.com/generators.html	Generators
+313	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/alternative-power-solutions.html	Generators &amp; Power Solutions	https://www.costco.com/home-solar-power.html	Home Solar Power
+314	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/outdoor-hardware.html	Outdoor Equipment	https://www.costco.com/tools-pressure-washers.html	Pressure Washers
+315	https://www.costco.com/hardware.html	Home Improvement	https://www.costco.com/outdoor-hardware.html	Outdoor Equipment	https://www.costco.com/pumps-drainage.html	Rain Gutters &amp; Drainage
+316	https://www.costco.com/home-and-decor.html	Home &amp; Kitchen	https://www.costco.com/small-kitchen-appliances.html	Small Kitchen Appliances	https://www.costco.com/coffee-espresso-makers.html	Coffee &amp; Espresso Makers
+317	https://www.costco.com/home-and-decor.html	Home &amp; Kitchen	https://www.costco.com/small-kitchen-appliances.html	Small Kitchen Appliances	https://www.costco.com/blenders-juicers.html	Blenders &amp; Juicers
+318	https://www.costco.com/home-and-decor.html	Home &amp; Kitchen	https://www.costco.com/small-kitchen-appliances.html	Small Kitchen Appliances	https://www.costco.com/food-processors-mixers.html	Food Processors &amp; Mixers
+319	https://www.costco.com/home-and-decor.html	Home &amp; Kitchen	https://www.costco.com/small-kitchen-appliances.html	Small Kitchen Appliances	https://www.costco.com/kettles.html	Kettles
+320	https://www.costco.com/home-and-decor.html	Home &amp; Kitchen	https://www.costco.com/small-kitchen-appliances.html	Small Kitchen Appliances	https://www.costco.com/ovens-toasters.html	Ovens &amp; Toasters
+321	https://www.costco.com/home-and-decor.html	Home &amp; Kitchen	https://www.costco.com/small-kitchen-appliances.html	Small Kitchen Appliances	https://www.costco.com/food-dehydrators.html	Food Dehydrators
+322	https://www.costco.com/home-and-decor.html	Home &amp; Kitchen	https://www.costco.com/small-kitchen-appliances.html	Small Kitchen Appliances	https://www.costco.com/vacuum-sealers.html	Vacuum Sealers
+323	https://www.costco.com/home-and-decor.html	Home &amp; Kitchen	https://www.costco.com/small-kitchen-appliances.html	Small Kitchen Appliances	https://www.costco.com/slicers-grinders.html	Slicers &amp; Grinders
+324	https://www.costco.com/home-and-decor.html	Home &amp; Kitchen	https://www.costco.com/small-kitchen-appliances.html	Small Kitchen Appliances	https://www.costco.com/specialty-kitchen-appliances.html	Specialty Appliances
+325	https://www.costco.com/home-and-decor.html	Home &amp; Kitchen	https://www.costco.com/small-kitchen-appliances.html	Small Kitchen Appliances	https://www.costco.com/water-dispensers-filtration-water-coolers-dispensers.html	Water Coolers &amp; Dispensers
+326	https://www.costco.com/home-and-decor.html	Home &amp; Kitchen	https://www.costco.com/vacuums-floor-care.html	Vacuums &amp; Floor Care	https://www.costco.com/handheld-stick-vacuums.html	Stick &amp; Handheld Vacuums
+327	https://www.costco.com/home-and-decor.html	Home &amp; Kitchen	https://www.costco.com/vacuums-floor-care.html	Vacuums &amp; Floor Care	https://www.costco.com/robot-vacuums.html	Robot Vacuums &amp; Cleaners
+328	https://www.costco.com/home-and-decor.html	Home &amp; Kitchen	https://www.costco.com/vacuums-floor-care.html	Vacuums &amp; Floor Care	https://www.costco.com/upright-vacuums.html	Upright Vacuums
+329	https://www.costco.com/home-and-decor.html	Home &amp; Kitchen	https://www.costco.com/vacuums-floor-care.html	Vacuums &amp; Floor Care	https://www.costco.com/canister-vacuums.html	Canister Vacuums
+330	https://www.costco.com/home-and-decor.html	Home &amp; Kitchen	https://www.costco.com/vacuums-floor-care.html	Vacuums &amp; Floor Care	https://www.costco.com/vacuums-floor-care-steam-deep-cleaners.html	Steam, Deep &amp; Hardwood Floor Cleaners
+331	https://www.costco.com/home-and-decor.html	Home &amp; Kitchen	https://www.costco.com/vacuums-floor-care.html	Vacuums &amp; Floor Care	https://www.costco.com/commercial-garage-vacuums.html	Commercial &amp; Garage Vacuums
+332	https://www.costco.com/home-and-decor.html	Home &amp; Kitchen	https://www.costco.com/bedding.html	Bed &amp; Bath	https://www.costco.com/bath-towels.html	Bath Towels
+333	https://www.costco.com/home-and-decor.html	Home &amp; Kitchen	https://www.costco.com/bedding.html	Bed &amp; Bath	https://www.costco.com/bath-mats.html	Bath Mats
+334	https://www.costco.com/home-and-decor.html	Home &amp; Kitchen	https://www.costco.com/bedding.html	Bed &amp; Bath	https://www.costco.com/bedding-ensembles.html	Bedding Ensembles &amp; Duvets
+335	https://www.costco.com/home-and-decor.html	Home &amp; Kitchen	https://www.costco.com/bedding.html	Bed &amp; Bath	https://www.costco.com/blankets.html	Blankets
+336	https://www.costco.com/home-and-decor.html	Home &amp; Kitchen	https://www.costco.com/bedding.html	Bed &amp; Bath	https://www.costco.com/comforters.html	Comforters
+337	https://www.costco.com/home-and-decor.html	Home &amp; Kitchen	https://www.costco.com/bedding.html	Bed &amp; Bath	https://www.costco.com/mattress-pads-toppers.html	Mattress Pads &amp; Toppers
+338	https://www.costco.com/home-and-decor.html	Home &amp; Kitchen	https://www.costco.com/bedding.html	Bed &amp; Bath	https://www.costco.com/pillows.html	Pillows
+339	https://www.costco.com/home-and-decor.html	Home &amp; Kitchen	https://www.costco.com/bedding.html	Bed &amp; Bath	https://www.costco.com/sheets.html	Sheets
+340	https://www.costco.com/home-and-decor.html	Home &amp; Kitchen	https://www.costco.com/bedding.html	Bed &amp; Bath	https://www.costco.com/throws.html	Throws
+341	https://www.costco.com/home-and-decor.html	Home &amp; Kitchen	https://www.costco.com/kitchen-dining.html	Kitchen &amp; Dining	https://www.costco.com/tabletop-bar.html	Tabletop &amp; Bar
+342	https://www.costco.com/home-and-decor.html	Home &amp; Kitchen	https://www.costco.com/kitchen-dining.html	Kitchen &amp; Dining	https://www.costco.com/food-preparation-and-preservation.html	Food Prep &amp; Storage
+343	https://www.costco.com/home-and-decor.html	Home &amp; Kitchen	https://www.costco.com/kitchen-dining.html	Kitchen &amp; Dining	https://www.costco.com/kitchen-dining-cutlery.html	Cutlery
+344	https://www.costco.com/home-and-decor.html	Home &amp; Kitchen	https://www.costco.com/kitchen-dining.html	Kitchen &amp; Dining	https://www.costco.com/kitchen-linens.html	Kitchen Linens &amp; Towels
+345	https://www.costco.com/home-and-decor.html	Home &amp; Kitchen	https://www.costco.com/kitchen-dining.html	Kitchen &amp; Dining	https://www.costco.com/trash-cans.html	Trash Cans
+346	https://www.costco.com/home-and-decor.html	Home &amp; Kitchen	https://www.costco.com/kitchen-dining.html	Kitchen &amp; Dining	https://www.costco.com/rugs-mats.html	Kitchen Floor Mats
+347	https://www.costco.com/home-and-decor.html	Home &amp; Kitchen	https://www.costco.com/rugs.html	Rugs	https://www.costco.com/rugs-traditional.html	Traditional Rugs
+348	https://www.costco.com/home-and-decor.html	Home &amp; Kitchen	https://www.costco.com/rugs.html	Rugs	https://www.costco.com/juvenile.html	Kids Rugs
+349	https://www.costco.com/home-and-decor.html	Home &amp; Kitchen	https://www.costco.com/rugs.html	Rugs	https://www.costco.com/rugs-transitional.html	Transitional Rugs
+350	https://www.costco.com/home-and-decor.html	Home &amp; Kitchen	https://www.costco.com/rugs.html	Rugs	https://www.costco.com/rugs-contemporary.html	Contemporary Rugs
+351	https://www.costco.com/home-and-decor.html	Home &amp; Kitchen	https://www.costco.com/rugs.html	Rugs	https://www.costco.com/rugs-shag.html	Shag &amp; Sheepskin Rugs
+352	https://www.costco.com/home-and-decor.html	Home &amp; Kitchen	https://www.costco.com/rugs.html	Rugs	https://www.costco.com/rugs-outdoor-collections.html	Indoor &amp; Outdoor Rug Collections
+353	https://www.costco.com/home-and-decor.html	Home &amp; Kitchen	https://www.costco.com/sewing-garment-care.html	Sewing &amp; Garment Care	https://www.costco.com/garment-care.html	Garment Care
+354	https://www.costco.com/home-and-decor.html	Home &amp; Kitchen	https://www.costco.com/sewing-garment-care.html	Sewing &amp; Garment Care	https://www.costco.com/sewing-machines.html	Sewing Machines
+355	https://www.costco.com/home-and-decor.html	Home &amp; Kitchen	https://www.costco.com/home-decor.html	Home Decor	https://www.costco.com/mirrors.html	Mirrors
+356	https://www.costco.com/home-and-decor.html	Home &amp; Kitchen	https://www.costco.com/home-decor.html	Home Decor	https://www.costco.com/lighting-lamps.html	Lamps
+357	https://www.costco.com/home-and-decor.html	Home &amp; Kitchen	https://www.costco.com/home-decor.html	Home Decor	https://www.costco.com/decorative-accents.html	Decorative Accents
+358	https://www.costco.com/home-and-decor.html	Home &amp; Kitchen	https://www.costco.com/home-decor.html	Home Decor	https://www.costco.com/window-coverings-drapes.html	Window Coverings &amp; Drapes
+359	https://www.costco.com/home-and-decor.html	Home &amp; Kitchen	https://www.costco.com/home-decor.html	Home Decor	https://www.costco.com/weather-stations-clocks-clocks.html	Clocks
+360	https://www.costco.com/home-and-decor.html	Home &amp; Kitchen	https://www.costco.com/home-decor.html	Home Decor	https://www.costco.com/weather-stations-devices.html	Weather Stations &amp; Devices
+361	https://www.costco.com/office-products.html	Office Products	https://www.costco.com/office-paper.html	Paper	https://www.costco.com/copy-multipurpose-paper.html	Copy &amp; Printer Paper
+362	https://www.costco.com/office-products.html	Office Products	https://www.costco.com/office-paper.html	Paper	https://www.costco.com/office-paper-card-cover-stock.html	Card &amp; Cover Stock
+363	https://www.costco.com/office-products.html	Office Products	https://www.costco.com/office-paper.html	Paper	https://www.costco.com/paper-rolls.html	Cash Register &amp; Thermal Rolls
+364	https://www.costco.com/office-products.html	Office Products	https://www.costco.com/office-paper.html	Paper	https://www.costco.com/color-paper.html	Colored Paper
+365	https://www.costco.com/office-products.html	Office Products	https://www.costco.com/office-paper.html	Paper	https://www.costco.com/notebooks.html	Notebooks &amp; Notepads
+366	https://www.costco.com/office-products.html	Office Products	https://www.costco.com/office-paper.html	Paper	https://www.costco.com/specialty-paper.html	Photo &amp; Specialty Paper
+367	https://www.costco.com/office-products.html	Office Products	https://www.costco.com/office-paper.html	Paper	https://www.costco.com/self-stick-notes-flags.html	Self-Stick Notes &amp; Flags
+368	https://www.costco.com/office-products.html	Office Products	https://www.costco.com/office-supplies.html	Basic Office Supplies	https://www.costco.com/office-supplies-art-supplies.html	Art &amp; Crafting
+369	https://www.costco.com/office-products.html	Office Products	https://www.costco.com/office-supplies.html	Basic Office Supplies	https://www.costco.com/tapes-adhesives.html	Tapes &amp; Adhesives
+370	https://www.costco.com/office-products.html	Office Products	https://www.costco.com/office-supplies.html	Basic Office Supplies	https://www.costco.com/scissors-trimmers.html	Cutting &amp; Measuring Tools
+371	https://www.costco.com/office-products.html	Office Products	https://www.costco.com/office-supplies.html	Basic Office Supplies	https://www.costco.com/label-maker-supplies.html	Label Makers &amp; Laminating
+372	https://www.costco.com/office-products.html	Office Products	https://www.costco.com/office-supplies.html	Basic Office Supplies	https://www.costco.com/boards-easels.html	Boards &amp; Easels
+373	https://www.costco.com/office-products.html	Office Products	https://www.costco.com/office-supplies.html	Basic Office Supplies	https://www.costco.com/clips-pins-rubber-bands.html	Clips, Pins &amp; Rubber Bands
+374	https://www.costco.com/office-products.html	Office Products	https://www.costco.com/office-supplies.html	Basic Office Supplies	https://www.costco.com/staplers.html	Staplers &amp; Punches
+375	https://www.costco.com/office-products.html	Office Products	https://www.costco.com/office-supplies.html	Basic Office Supplies	https://www.costco.com/presentation-event.html	Presentation &amp; Display
+376	https://www.costco.com/office-products.html	Office Products	https://www.costco.com/office-supplies.html	Basic Office Supplies	https://www.costco.com/calendars-planners.html	Calendars &amp; Planners
+377	https://www.costco.com/office-products.html	Office Products	https://www.costco.com/office-supplies.html	Basic Office Supplies	https://www.costco.com/clipboards-copy-holders.html	Clipboards &amp; Copy Holders
+378	https://www.costco.com/office-products.html	Office Products	https://www.costco.com/business-equipment.html	Office Electronics	https://www.costco.com/calculators.html	Calculators
+379	https://www.costco.com/office-products.html	Office Products	https://www.costco.com/business-equipment.html	Office Electronics	https://www.costco.com/cash-registers.html	Point of Sale &amp; Cash Registers
+380	https://www.costco.com/office-products.html	Office Products	https://www.costco.com/business-equipment.html	Office Electronics	https://www.costco.com/scanners.html	Scanners
+381	https://www.costco.com/office-products.html	Office Products	https://www.costco.com/business-equipment.html	Office Electronics	https://www.costco.com/shredders.html	Shredders
+382	https://www.costco.com/office-products.html	Office Products	https://www.costco.com/business-equipment.html	Office Electronics	https://www.costco.com/business-equipment-signs.html	Signs
+383	https://www.costco.com/office-products.html	Office Products	https://www.costco.com/business-equipment.html	Office Electronics	https://www.costco.com/time-keeping.html	Time Clocks
+384	https://www.costco.com/office-products.html	Office Products	https://www.costco.com/business-equipment.html	Office Electronics	https://www.costco.com/electronic-cleaning.html	Electronic Cleaning
+385	https://www.costco.com/office-products.html	Office Products	https://www.costco.com/writing-supplies.html	Writing Supplies	https://www.costco.com/writing-supplies-pencils.html	Pencils
+386	https://www.costco.com/office-products.html	Office Products	https://www.costco.com/writing-supplies.html	Writing Supplies	https://www.costco.com/writing-supplies-pens.html	Pens
+387	https://www.costco.com/office-products.html	Office Products	https://www.costco.com/writing-supplies.html	Writing Supplies	https://www.costco.com/highlighters.html	Markers &amp; Highlighters
+388	https://www.costco.com/office-products.html	Office Products	https://www.costco.com/writing-supplies.html	Writing Supplies	https://www.costco.com/correction-supplies.html	Erasers &amp; Correction
+389	https://www.costco.com/office-products.html	Office Products	https://www.costco.com/office-binders-supplies.html	Filing &amp; Storage	https://www.costco.com/binder-supplies.html	Binder Supplies
+390	https://www.costco.com/office-products.html	Office Products	https://www.costco.com/office-binders-supplies.html	Filing &amp; Storage	https://www.costco.com/binders.html	Binders
+391	https://www.costco.com/office-products.html	Office Products	https://www.costco.com/office-binders-supplies.html	Filing &amp; Storage	https://www.costco.com/sorters-organizers.html	Desk Accessories
+392	https://www.costco.com/office-products.html	Office Products	https://www.costco.com/office-binders-supplies.html	Filing &amp; Storage	https://www.costco.com/filing.html	Filing &amp; Folders
+393	https://www.costco.com/office-products.html	Office Products	https://www.costco.com/office-binders-supplies.html	Filing &amp; Storage	https://www.costco.com/storage-boxes.html	Storage Boxes
+394	https://www.costco.com/office-products.html	Office Products	https://www.costco.com/mailing-shipping.html	Mailing, Packing &amp; Shipping	https://www.costco.com/envelopes.html	Envelopes
+395	https://www.costco.com/office-products.html	Office Products	https://www.costco.com/mailing-shipping.html	Mailing, Packing &amp; Shipping	https://www.costco.com/labels.html	Labels &amp; Tags
+396	https://www.costco.com/office-products.html	Office Products	https://www.costco.com/mailing-shipping.html	Mailing, Packing &amp; Shipping	https://www.costco.com/packaging-supplies.html	Packing Tape &amp; Supplies
+397	https://www.costco.com/office-products.html	Office Products	https://www.costco.com/janitorial-supplies.html	Janitorial &amp; Breakroom Supplies	https://www.costco.com/bath-tissue.html	Bath &amp; Facial Tissue
+398	https://www.costco.com/office-products.html	Office Products	https://www.costco.com/janitorial-supplies.html	Janitorial &amp; Breakroom Supplies	https://www.costco.com/paper-towels.html	Paper Towels
+399	https://www.costco.com/office-products.html	Office Products	https://www.costco.com/janitorial-supplies.html	Janitorial &amp; Breakroom Supplies	https://www.costco.com/dispensers.html	Dispensers
+400	https://www.costco.com/office-products.html	Office Products	https://www.costco.com/janitorial-supplies.html	Janitorial &amp; Breakroom Supplies	https://www.costco.com/trash-cans-bags.html	Trash Cans &amp; Bags
+401	https://www.costco.com/office-products.html	Office Products	https://www.costco.com/janitorial-supplies.html	Janitorial &amp; Breakroom Supplies	https://www.costco.com/hand-soap-lotions.html	Liquid Soap &amp; Sanitizer
+402	https://www.costco.com/office-products.html	Office Products	https://www.costco.com/janitorial-supplies.html	Janitorial &amp; Breakroom Supplies	https://www.costco.com/janitorial-cleaning-products.html	Cleaning Products
+403	https://www.costco.com/office-products.html	Office Products	https://www.costco.com/janitorial-supplies.html	Janitorial &amp; Breakroom Supplies	https://www.costco.com/breakroom-supplies-serving.html	Breakroom Serving Supplies
+404	https://www.costco.com/office-products.html	Office Products	https://www.costco.com/janitorial-supplies.html	Janitorial &amp; Breakroom Supplies	https://www.costco.com/floor-mats.html	Floor Mats
+405	https://www.costco.com/clothing.html	Clothing, Luggage &amp; Handbags	https://www.costco.com/womens-clothing.html	Women's Clothing	https://www.costco.com/womens-outerwear.html	Jackets &amp; Outerwear
+406	https://www.costco.com/clothing.html	Clothing, Luggage &amp; Handbags	https://www.costco.com/womens-clothing.html	Women's Clothing	https://www.costco.com/womens-shirts.html	Shirts &amp; Tops
+407	https://www.costco.com/clothing.html	Clothing, Luggage &amp; Handbags	https://www.costco.com/womens-clothing.html	Women's Clothing	https://www.costco.com/womens-sweaters.html	Sweaters &amp; Cardigans
+408	https://www.costco.com/clothing.html	Clothing, Luggage &amp; Handbags	https://www.costco.com/womens-clothing.html	Women's Clothing	https://www.costco.com/womens-dresses-skirts.html	Dresses &amp; Skirts
+409	https://www.costco.com/clothing.html	Clothing, Luggage &amp; Handbags	https://www.costco.com/womens-clothing.html	Women's Clothing	https://www.costco.com/womens-pants.html	Pants &amp; Denim
+410	https://www.costco.com/clothing.html	Clothing, Luggage &amp; Handbags	https://www.costco.com/womens-clothing.html	Women's Clothing	https://www.costco.com/womens-activewear.html	Lounge &amp; Activewear
+411	https://www.costco.com/clothing.html	Clothing, Luggage &amp; Handbags	https://www.costco.com/womens-clothing.html	Women's Clothing	https://www.costco.com/womens-sleepwear.html	Sleepwear
+412	https://www.costco.com/clothing.html	Clothing, Luggage &amp; Handbags	https://www.costco.com/womens-clothing.html	Women's Clothing	https://www.costco.com/womens-shorts.html	Shorts
+413	https://www.costco.com/clothing.html	Clothing, Luggage &amp; Handbags	https://www.costco.com/womens-clothing.html	Women's Clothing	https://www.costco.com/maternity-clothing.html	Maternity
+414	https://www.costco.com/clothing.html	Clothing, Luggage &amp; Handbags	https://www.costco.com/womens-clothing.html	Women's Clothing	https://www.costco.com/womens-footwear.html	Shoes
+415	https://www.costco.com/clothing.html	Clothing, Luggage &amp; Handbags	https://www.costco.com/womens-clothing.html	Women's Clothing	https://www.costco.com/womens-basics.html	Socks &amp; Underwear
+416	https://www.costco.com/clothing.html	Clothing, Luggage &amp; Handbags	https://www.costco.com/womens-clothing.html	Women's Clothing	https://www.costco.com/womens-accessories.html	Accessories
+417	https://www.costco.com/clothing.html	Clothing, Luggage &amp; Handbags	https://www.costco.com/womens-clothing.html	Women's Clothing	https://www.costco.com/womens-swimwear.html	Swim
+418	https://www.costco.com/clothing.html	Clothing, Luggage &amp; Handbags	https://www.costco.com/mens-clothing.html	Men's Clothing	https://www.costco.com/mens-outerwear.html	Jackets &amp; Outerwear
+419	https://www.costco.com/clothing.html	Clothing, Luggage &amp; Handbags	https://www.costco.com/mens-clothing.html	Men's Clothing	https://www.costco.com/mens-activewear.html	Lounge &amp; Activewear
+420	https://www.costco.com/clothing.html	Clothing, Luggage &amp; Handbags	https://www.costco.com/mens-clothing.html	Men's Clothing	https://www.costco.com/pants.html	Pants &amp; Denim
+421	https://www.costco.com/clothing.html	Clothing, Luggage &amp; Handbags	https://www.costco.com/mens-clothing.html	Men's Clothing	https://www.costco.com/mens-shirts.html	Shirts
+422	https://www.costco.com/clothing.html	Clothing, Luggage &amp; Handbags	https://www.costco.com/mens-clothing.html	Men's Clothing	https://www.costco.com/mens-sweaters.html	Sweaters &amp; Sweatshirts
+423	https://www.costco.com/clothing.html	Clothing, Luggage &amp; Handbags	https://www.costco.com/mens-clothing.html	Men's Clothing	https://www.costco.com/mens-suits.html	Suits
+424	https://www.costco.com/clothing.html	Clothing, Luggage &amp; Handbags	https://www.costco.com/mens-clothing.html	Men's Clothing	https://www.costco.com/mens-footwear.html	Shoes
+425	https://www.costco.com/clothing.html	Clothing, Luggage &amp; Handbags	https://www.costco.com/mens-clothing.html	Men's Clothing	https://www.costco.com/mens-basics.html	Socks &amp; Underwear
+426	https://www.costco.com/clothing.html	Clothing, Luggage &amp; Handbags	https://www.costco.com/mens-clothing.html	Men's Clothing	https://www.costco.com/accessories.html	Accessories
+427	https://www.costco.com/clothing.html	Clothing, Luggage &amp; Handbags	https://www.costco.com/mens-clothing.html	Men's Clothing	https://www.costco.com/mens-sleepwear.html	Sleepwear
+428	https://www.costco.com/clothing.html	Clothing, Luggage &amp; Handbags	https://www.costco.com/mens-clothing.html	Men's Clothing	https://www.costco.com/mens-shorts.html	Shorts
+429	https://www.costco.com/clothing.html	Clothing, Luggage &amp; Handbags	https://www.costco.com/mens-clothing.html	Men's Clothing	https://www.costco.com/mens-swimwear.html	Swim
+430	https://www.costco.com/clothing.html	Clothing, Luggage &amp; Handbags	https://www.costco.com/girls-clothing.html	Girls' Clothing	https://www.costco.com/girls-dresses.html	Dresses
+431	https://www.costco.com/clothing.html	Clothing, Luggage &amp; Handbags	https://www.costco.com/girls-clothing.html	Girls' Clothing	https://www.costco.com/girls-sets.html	Clothing Sets
+432	https://www.costco.com/clothing.html	Clothing, Luggage &amp; Handbags	https://www.costco.com/girls-clothing.html	Girls' Clothing	https://www.costco.com/girls-pants.html	Pants
+433	https://www.costco.com/clothing.html	Clothing, Luggage &amp; Handbags	https://www.costco.com/girls-clothing.html	Girls' Clothing	https://www.costco.com/girls-outerwear.html	Outerwear
+434	https://www.costco.com/clothing.html	Clothing, Luggage &amp; Handbags	https://www.costco.com/girls-clothing.html	Girls' Clothing	https://www.costco.com/girls-swimwear.html	Swim
+435	https://www.costco.com/clothing.html	Clothing, Luggage &amp; Handbags	https://www.costco.com/girls-clothing.html	Girls' Clothing	https://www.costco.com/girls-sleepwear.html	Sleepwear
+436	https://www.costco.com/clothing.html	Clothing, Luggage &amp; Handbags	https://www.costco.com/girls-clothing.html	Girls' Clothing	https://www.costco.com/girls-shirts.html	Shirts
+437	https://www.costco.com/clothing.html	Clothing, Luggage &amp; Handbags	https://www.costco.com/girls-clothing.html	Girls' Clothing	https://www.costco.com/girls-shorts.html	Shorts
+438	https://www.costco.com/clothing.html	Clothing, Luggage &amp; Handbags	https://www.costco.com/girls-clothing.html	Girls' Clothing	https://www.costco.com/girls-activewear.html	Activewear
+439	https://www.costco.com/clothing.html	Clothing, Luggage &amp; Handbags	https://www.costco.com/boys-clothing.html	Boys' Clothing	https://www.costco.com/boys-activewear.html	Activewear
+440	https://www.costco.com/clothing.html	Clothing, Luggage &amp; Handbags	https://www.costco.com/boys-clothing.html	Boys' Clothing	https://www.costco.com/boys-sets.html	Clothing Sets
+441	https://www.costco.com/clothing.html	Clothing, Luggage &amp; Handbags	https://www.costco.com/boys-clothing.html	Boys' Clothing	https://www.costco.com/boys-shirts.html	Shirts
+442	https://www.costco.com/clothing.html	Clothing, Luggage &amp; Handbags	https://www.costco.com/boys-clothing.html	Boys' Clothing	https://www.costco.com/boys-sleepwear.html	Sleepwear
+443	https://www.costco.com/clothing.html	Clothing, Luggage &amp; Handbags	https://www.costco.com/boys-clothing.html	Boys' Clothing	https://www.costco.com/boys-shorts.html	Shorts
+444	https://www.costco.com/clothing.html	Clothing, Luggage &amp; Handbags	https://www.costco.com/boys-clothing.html	Boys' Clothing	https://www.costco.com/boys-swimwear.html	Swim
+445	https://www.costco.com/clothing.html	Clothing, Luggage &amp; Handbags	https://www.costco.com/handbags-wallets.html	Handbags &amp; Wallets	https://www.costco.com/all-handbags.html	All Handbags
+446	https://www.costco.com/clothing.html	Clothing, Luggage &amp; Handbags	https://www.costco.com/handbags-wallets.html	Handbags &amp; Wallets	https://www.costco.com/totes.html	Totes
+447	https://www.costco.com/clothing.html	Clothing, Luggage &amp; Handbags	https://www.costco.com/handbags-wallets.html	Handbags &amp; Wallets	https://www.costco.com/handbags.html	Handbags
+448	https://www.costco.com/clothing.html	Clothing, Luggage &amp; Handbags	https://www.costco.com/handbags-wallets.html	Handbags &amp; Wallets	https://www.costco.com/clutches-wallets.html	Clutches &amp; Wallets
+449	https://www.costco.com/clothing.html	Clothing, Luggage &amp; Handbags	https://www.costco.com/luggage.html	Luggage	https://www.costco.com/luggage-sets.html	Luggage Sets
+450	https://www.costco.com/clothing.html	Clothing, Luggage &amp; Handbags	https://www.costco.com/luggage.html	Luggage	https://www.costco.com/carry-ons.html	Carry-Ons
+451	https://www.costco.com/clothing.html	Clothing, Luggage &amp; Handbags	https://www.costco.com/luggage.html	Luggage	https://www.costco.com/wheeled-luggage.html	Checked Luggage
+452	https://www.costco.com/clothing.html	Clothing, Luggage &amp; Handbags	https://www.costco.com/luggage.html	Luggage	https://www.costco.com/duffel-bags.html	Duffel Bags &amp; Backpacks
+453	https://www.costco.com/clothing.html	Clothing, Luggage &amp; Handbags	https://www.costco.com/luggage.html	Luggage	https://www.costco.com/travel-accessories.html	Umbrellas
+454	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/beauty.html	Beauty	https://www.costco.com/skin-care.html	Skin Care
+455	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/beauty.html	Beauty	https://www.costco.com/cosmetics.html	Makeup
+456	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/beauty.html	Beauty	https://www.costco.com/fragrances.html	Fragrances
+457	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/beauty.html	Beauty	https://www.costco.com/premium-hair-care.html	Premium Hair Care
+458	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/beauty.html	Beauty	https://www.costco.com/sun-care.html	Sun Care
+459	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/beauty.html	Beauty	https://www.costco.com/bath-body.html	Bath &amp; Body
+460	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/beauty.html	Beauty	https://www.costco.com/beauty-tools-accessories.html	Beauty Tools &amp; Accessories
+461	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/beauty.html	Beauty	https://www.costco.com/inner-beauty.html	Inner Beauty
+462	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/personal-care.html	Personal Care	https://www.costco.com/feminine-hygiene.html	Feminine Hygiene
+463	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/personal-care.html	Personal Care	https://www.costco.com/oral-care.html	Oral Care
+464	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/personal-care.html	Personal Care	https://www.costco.com/shavers.html	Shaving &amp; Grooming
+465	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/personal-care.html	Personal Care	https://www.costco.com/incontinence.html	Incontinence
+466	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/personal-care.html	Personal Care	https://www.costco.com/deodorant.html	Deodorant
+467	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/personal-care.html	Personal Care	https://www.costco.com/moisturizers.html	Moisturizers
+468	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/personal-care.html	Personal Care	https://www.costco.com/soap-bodywash.html	Soap &amp; Bodywash
+469	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/personal-care.html	Personal Care	https://www.costco.com/hair-care.html	Hair Care
+470	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/personal-care.html	Personal Care	https://www.costco.com/cleansing-wipes.html	Cleansing Wipes &amp; Cloths
+471	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/vitamins-herbals-dietary-supplements.html	Vitamins, Herbals &amp; Dietary Supplements	https://www.costco.com/all-vitamins-supplements.html	All Vitamins &amp; Supplements
+472	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/vitamins-herbals-dietary-supplements.html	Vitamins, Herbals &amp; Dietary Supplements	https://www.costco.com/adult-multi-letter-vitamins.html	Adult Multi &amp; Letter Vitamins
+473	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/vitamins-herbals-dietary-supplements.html	Vitamins, Herbals &amp; Dietary Supplements	https://www.costco.com/calcium-minerals.html	Calcium &amp; Minerals
+474	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/vitamins-herbals-dietary-supplements.html	Vitamins, Herbals &amp; Dietary Supplements	https://www.costco.com/childrens-multi-letter-vitamins.html	Children's Multi &amp; Letter Vitamins
+475	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/vitamins-herbals-dietary-supplements.html	Vitamins, Herbals &amp; Dietary Supplements	https://www.costco.com/coq10-enzyme.html	CoQ 10 Enzyme
+476	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/vitamins-herbals-dietary-supplements.html	Vitamins, Herbals &amp; Dietary Supplements	https://www.costco.com/dietary-supplements.html	Dietary Supplements
+477	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/vitamins-herbals-dietary-supplements.html	Vitamins, Herbals &amp; Dietary Supplements	https://www.costco.com/energy.html	Energy
+478	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/vitamins-herbals-dietary-supplements.html	Vitamins, Herbals &amp; Dietary Supplements	https://www.costco.com/fish-oil-omega-3.html	Fish Oil &amp; Omega-3
+479	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/vitamins-herbals-dietary-supplements.html	Vitamins, Herbals &amp; Dietary Supplements	https://www.costco.com/glucosamine-joint-supplements.html	Glucosamine &amp; Joint Supplements
+480	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/vitamins-herbals-dietary-supplements.html	Vitamins, Herbals &amp; Dietary Supplements	https://www.costco.com/herbal-supplements.html	Herbal Supplements
+481	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/vitamins-herbals-dietary-supplements.html	Vitamins, Herbals &amp; Dietary Supplements	https://www.costco.com/immune-support.html	Immune Support
+482	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/vitamins-herbals-dietary-supplements.html	Vitamins, Herbals &amp; Dietary Supplements	https://www.costco.com/probiotics.html	Probiotics
+483	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/vitamins-herbals-dietary-supplements.html	Vitamins, Herbals &amp; Dietary Supplements	https://www.costco.com/weight-loss-supplements.html	Weight Loss Supplements
+484	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/diet-nutrition.html	Diet &amp; Nutrition	https://www.costco.com/healthy-snacks.html	Healthy Snacks &amp; Mixes
+485	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/diet-nutrition.html	Diet &amp; Nutrition	https://www.costco.com/fruit-vegetable-powder.html	Fruit &amp; Vegetable Powder
+486	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/diet-nutrition.html	Diet &amp; Nutrition	https://www.costco.com/sports-nutrition.html	Sports Performance
+487	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/diet-nutrition.html	Diet &amp; Nutrition	https://www.costco.com/protein.html	Protein
+488	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/diet-nutrition.html	Diet &amp; Nutrition	https://www.costco.com/gluten-free.html	Gluten Free
+489	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/diet-nutrition.html	Diet &amp; Nutrition	https://www.costco.com/organic.html	Organic
+490	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/diet-nutrition.html	Diet &amp; Nutrition	https://www.costco.com/weight-management.html	Weight Management
+491	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/non-prescription-remedies.html	Health &amp; Medicines	https://www.costco.com/acid-relief.html	Acid Relief
+492	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/non-prescription-remedies.html	Health &amp; Medicines	https://www.costco.com/allergy-sinus.html	Allergy &amp; Sinus
+493	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/non-prescription-remedies.html	Health &amp; Medicines	https://www.costco.com/cough-cold.html	Cough &amp; Cold
+494	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/non-prescription-remedies.html	Health &amp; Medicines	https://www.costco.com/eye-care.html	Eye Care
+495	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/non-prescription-remedies.html	Health &amp; Medicines	https://www.costco.com/fiber-laxatives.html	Fiber &amp; Laxatives
+496	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/non-prescription-remedies.html	Health &amp; Medicines	https://www.costco.com/pain-fever.html	Pain &amp; Fever
+497	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/non-prescription-remedies.html	Health &amp; Medicines	https://www.costco.com/sleep-aids.html	Sleep Aids
+498	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/non-prescription-remedies.html	Health &amp; Medicines	https://www.costco.com/smoking-cessation.html	Smoking Cessation
+499	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/non-prescription-remedies.html	Health &amp; Medicines	https://www.costco.com/topical-remedies.html	Topical Remedies
+500	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/home-health-care.html	Home Health Care	https://www.costco.com/home-health-care-first-aid.html	First Aid
+501	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/home-health-care.html	Home Health Care	https://www.costco.com/blood-pressure-health-monitors.html	Blood Pressure &amp; Health Monitors
+502	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/home-health-care.html	Home Health Care	https://www.costco.com/hot-cold-therapy.html	Hot &amp; Cold Therapy
+503	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/home-health-care.html	Home Health Care	https://www.costco.com/electrical-muscle-stimulation.html	Electrical Muscle Stimulation
+504	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/home-health-care.html	Home Health Care	https://www.costco.com/family-planning.html	Family Planning
+505	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/home-health-care.html	Home Health Care	https://www.costco.com/alcohol-monitors.html	Alcohol Monitors
+506	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/massage-relaxation.html	Massage &amp; Relaxation	https://www.costco.com/massage-chairs-cushions.html	Massage Chairs
+507	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/massage-relaxation.html	Massage &amp; Relaxation	https://www.costco.com/massage-accessories.html	Massage Accessories
+508	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/massage-relaxation.html	Massage &amp; Relaxation	https://www.costco.com/massage-tables.html	Massage Tables
+509	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/aids-for-independent-living.html	Aids for Independent Living	https://www.costco.com/medical-alert-systems.html	Medical Alert Systems
+510	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/aids-for-independent-living.html	Aids for Independent Living	https://www.costco.com/walkers-wheelchairs.html	Walkers &amp; Wheelchairs
+511	https://www.costco.com/health-beauty.html	Health &amp; Beauty	https://www.costco.com/hearing-care-products.html	Hearing Care Products	https://www.costco.com/assisted-hearing-devices.html	Assisted Hearing Devices
+512	https://www.costco.com/baby-kids.html	Baby, Kids &amp; Toys	https://www.costco.com/toys.html	Toys	https://www.costco.com/building-blocks.html	Building Sets &amp; Blocks
+513	https://www.costco.com/baby-kids.html	Baby, Kids &amp; Toys	https://www.costco.com/toys.html	Toys	https://www.costco.com/pretend-play.html	Pretend Play
+514	https://www.costco.com/baby-kids.html	Baby, Kids &amp; Toys	https://www.costco.com/toys.html	Toys	https://www.costco.com/dollhouses.html	Dolls &amp; Action Figures
+515	https://www.costco.com/baby-kids.html	Baby, Kids &amp; Toys	https://www.costco.com/toys.html	Toys	https://www.costco.com/toys-educational.html	Infant &amp; Preschool
+516	https://www.costco.com/baby-kids.html	Baby, Kids &amp; Toys	https://www.costco.com/toys.html	Toys	https://www.costco.com/toys-outdoor-play.html	Outdoor Play
+517	https://www.costco.com/baby-kids.html	Baby, Kids &amp; Toys	https://www.costco.com/toys.html	Toys	https://www.costco.com/electronics-tech-toys.html	Electronics &amp; Tech Toys
+518	https://www.costco.com/baby-kids.html	Baby, Kids &amp; Toys	https://www.costco.com/toys.html	Toys	https://www.costco.com/plush-toys.html	Plush Toys
+519	https://www.costco.com/baby-kids.html	Baby, Kids &amp; Toys	https://www.costco.com/toys.html	Toys	https://www.costco.com/board-games-puzzles.html	Board Games &amp; Puzzles
+520	https://www.costco.com/baby-kids.html	Baby, Kids &amp; Toys	https://www.costco.com/diapers-wipes.html	Diapers &amp; Wipes	https://www.costco.com/training-pants.html	Training Pants
+521	https://www.costco.com/baby-kids.html	Baby, Kids &amp; Toys	https://www.costco.com/diapers-wipes.html	Diapers &amp; Wipes	https://www.costco.com/diapers.html	Diapers
+522	https://www.costco.com/baby-kids.html	Baby, Kids &amp; Toys	https://www.costco.com/diapers-wipes.html	Diapers &amp; Wipes	https://www.costco.com/wipes.html	Wipes
+523	https://www.costco.com/baby-kids.html	Baby, Kids &amp; Toys	https://www.costco.com/formula-feeding.html	Formula &amp; Feeding	https://www.costco.com/baby-food.html	Baby Food
+524	https://www.costco.com/baby-kids.html	Baby, Kids &amp; Toys	https://www.costco.com/baby-gear.html	Baby Gear	https://www.costco.com/car-seats-boosters.html	Car Seats &amp; Boosters
+525	https://www.costco.com/baby-kids.html	Baby, Kids &amp; Toys	https://www.costco.com/baby-gear.html	Baby Gear	https://www.costco.com/strollers-carriers.html	Strollers &amp; Carriers
+526	https://www.costco.com/baby-kids.html	Baby, Kids &amp; Toys	https://www.costco.com/daycare-learning.html	Daycare &amp; Playroom Furniture	https://www.costco.com/classroom-furniture.html	Classroom Furniture
+527	https://www.costco.com/baby-kids.html	Baby, Kids &amp; Toys	https://www.costco.com/daycare-learning.html	Daycare &amp; Playroom Furniture	https://www.costco.com/playroom-furniture.html	Playroom Furniture
+528	https://www.costco.com/baby-kids.html	Baby, Kids &amp; Toys	https://www.costco.com/health-safety.html	Health &amp; Safety	https://www.costco.com/baby-skin-health-care.html	Bath &amp; Skin Care
+529	https://www.costco.com/baby-kids.html	Baby, Kids &amp; Toys	https://www.costco.com/health-safety.html	Health &amp; Safety	https://www.costco.com/baby-monitors.html	Baby Monitors
+530	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/all-costco-grocery.html	2-Day Delivery	https://www.costco.com/grocery-health-beauty.html	Health &amp; Beauty
+531	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/all-costco-grocery.html	2-Day Delivery	https://www.costco.com/household.html	Household
+532	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/beverages.html	Water &amp; Beverages	https://www.costco.com/tea.html	Tea
+533	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/beverages.html	Water &amp; Beverages	https://www.costco.com/juice.html	Juice
+534	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/beverages.html	Water &amp; Beverages	https://www.costco.com/drink-mix.html	Drink Mix
+535	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/beverages.html	Water &amp; Beverages	https://www.costco.com/energy-drinks.html	Energy Drinks
+536	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/beverages.html	Water &amp; Beverages	https://www.costco.com/milk.html	Shelf Stable Milk
+537	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/beverages.html	Water &amp; Beverages	https://www.costco.com/soft-drinks.html	Soda &amp; Soft Drinks
+538	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/beverages.html	Water &amp; Beverages	https://www.costco.com/bottled-water.html	Water
+539	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/beverages.html	Water &amp; Beverages	https://www.costco.com/hot-cocoa.html	Cocoa
+540	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/breakfast.html	Breakfast	https://www.costco.com/breakfast-cereal.html	Cereal
+541	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/breakfast.html	Breakfast	https://www.costco.com/pastries.html	Breakfast Bars &amp; Pastries
+542	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/snacks.html	Snacks, Candy &amp; Nuts	https://www.costco.com/candy.html	Candy
+543	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/snacks.html	Snacks, Candy &amp; Nuts	https://www.costco.com/chips-pretzels.html	Chips &amp; Pretzels
+544	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/snacks.html	Snacks, Candy &amp; Nuts	https://www.costco.com/crackers.html	Crackers
+545	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/snacks.html	Snacks, Candy &amp; Nuts	https://www.costco.com/gum-mints.html	Gum &amp; Mints
+546	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/snacks.html	Snacks, Candy &amp; Nuts	https://www.costco.com/trail-snack-mix.html	Trail &amp; Snack Mix
+547	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/snacks.html	Snacks, Candy &amp; Nuts	https://www.costco.com/snacks-bars.html	Nutrition &amp; Snack Bars
+548	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/snacks.html	Snacks, Candy &amp; Nuts	https://www.costco.com/nuts.html	Fruit &amp; Nuts
+549	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/snacks.html	Snacks, Candy &amp; Nuts	https://www.costco.com/chocolates.html	Chocolates
+550	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/snacks.html	Snacks, Candy &amp; Nuts	https://www.costco.com/jerky.html	Jerky &amp; Meat Snacks
+551	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/snacks.html	Snacks, Candy &amp; Nuts	https://www.costco.com/popcorn.html	Popcorn
+552	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/canned-prepared-foods.html	Canned Goods	https://www.costco.com/jarred-goods.html	Jarred
+553	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/canned-prepared-foods.html	Canned Goods	https://www.costco.com/soup.html	Soup
+554	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/canned-prepared-foods.html	Canned Goods	https://www.costco.com/canned-goods.html	Canned
+555	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/pantry.html	Pantry &amp; Dry Goods	https://www.costco.com/baking.html	Baking Essentials
+556	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/pantry.html	Pantry &amp; Dry Goods	https://www.costco.com/beans-grains-rice.html	Grains &amp; Rice
+557	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/pantry.html	Pantry &amp; Dry Goods	https://www.costco.com/condiments-sauces.html	Condiments &amp; Sauces
+558	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/pantry.html	Pantry &amp; Dry Goods	https://www.costco.com/pasta.html	Pasta &amp; Noodles
+559	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/pantry.html	Pantry &amp; Dry Goods	https://www.costco.com/spreads.html	Spreads
+560	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/pantry.html	Pantry &amp; Dry Goods	https://www.costco.com/sugar-sweeteners.html	Sugar &amp; Sweeteners
+561	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/pantry.html	Pantry &amp; Dry Goods	https://www.costco.com/oils-balsamic.html	Cooking Oil &amp; Spray
+562	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/pantry.html	Pantry &amp; Dry Goods	https://www.costco.com/prepared-food.html	Prepared Food
+563	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/pantry.html	Pantry &amp; Dry Goods	https://www.costco.com/spices-seasonings.html	Spices &amp; Seasonings
+564	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/coffee-sweeteners.html	Coffee &amp; Sweeteners	https://www.costco.com/whole-bean-coffee.html	Whole Bean Coffee
+565	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/coffee-sweeteners.html	Coffee &amp; Sweeteners	https://www.costco.com/single-serve-coffee.html	Single-serve Coffee
+566	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/coffee-sweeteners.html	Coffee &amp; Sweeteners	https://www.costco.com/ground-coffee.html	Ground Coffee
+567	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/coffee-sweeteners.html	Coffee &amp; Sweeteners	https://www.costco.com/creamer-sweeteners.html	Creamers &amp; Sweeteners
+568	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/cakes-cookies.html	Cakes, Cookies &amp; Desserts	https://www.costco.com/cookies.html	Cookies
+569	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/fresh-food.html	Gourmet Foods	https://www.costco.com/meat.html	Meat &amp; Poultry
+570	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/fresh-food.html	Gourmet Foods	https://www.costco.com/seafood.html	Seafood
+571	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/fresh-food.html	Gourmet Foods	https://www.costco.com/prosciutto-smoked-cured-meats.html	Prosciutto, Smoked &amp; Cured Meats
+572	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/fresh-food.html	Gourmet Foods	https://www.costco.com/caviar.html	Caviar
+573	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/fresh-food.html	Gourmet Foods	https://www.costco.com/deli.html	Deli
+574	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/fresh-food.html	Gourmet Foods	https://www.costco.com/cheese.html	Cheese
+575	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/fresh-food.html	Gourmet Foods	https://www.costco.com/ice-cream-frozen-treats.html	Ice Cream &amp; Frozen Treats
+576	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/fresh-food.html	Gourmet Foods	https://www.costco.com/frozen-food.html	Frozen Food &amp; Appetizers
+577	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/paper-products-food-storage.html	Paper Products &amp; Food Storage	https://www.costco.com/food-storage.html	Food Storage
+578	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/paper-products-food-storage.html	Paper Products &amp; Food Storage	https://www.costco.com/food-wrap.html	Liners &amp; Wraps
+579	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/paper-products-food-storage.html	Paper Products &amp; Food Storage	https://www.costco.com/tissues-paper-towels.html	Paper Goods
+580	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/paper-products-food-storage.html	Paper Products &amp; Food Storage	https://www.costco.com/cups-lids.html	Cups &amp; Lids
+581	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/paper-products-food-storage.html	Paper Products &amp; Food Storage	https://www.costco.com/disposable-dinnerware.html	Disposable Dinnerware &amp; Food Storage
+582	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/household-cleaning.html	Cleaning &amp; Laundry Products	https://www.costco.com/cleaning-supplies.html	Cleaning Products
+583	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/household-cleaning.html	Cleaning &amp; Laundry Products	https://www.costco.com/dish-detergent.html	Dish Detergents
+584	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/household-cleaning.html	Cleaning &amp; Laundry Products	https://www.costco.com/laundry-supplies.html	Laundry
+585	https://www.costco.com/grocery-household.html	Grocery &amp; Household	https://www.costco.com/household-cleaning.html	Cleaning &amp; Laundry Products	https://www.costco.com/trash-bags.html	Trash Bags
+586	https://www.costco.com/sports-fitness.html	Sports &amp; Fitness	https://www.costco.com/exercise-fitness.html	Exercise &amp; Fitness	https://www.costco.com/treadmills.html	Treadmills
+587	https://www.costco.com/sports-fitness.html	Sports &amp; Fitness	https://www.costco.com/exercise-fitness.html	Exercise &amp; Fitness	https://www.costco.com/inversion-tables.html	Inversion Tables
+588	https://www.costco.com/sports-fitness.html	Sports &amp; Fitness	https://www.costco.com/exercise-fitness.html	Exercise &amp; Fitness	https://www.costco.com/ellipticals.html	Ellipticals
+589	https://www.costco.com/sports-fitness.html	Sports &amp; Fitness	https://www.costco.com/exercise-fitness.html	Exercise &amp; Fitness	https://www.costco.com/strength-core-training.html	Strength &amp; Core Training
+590	https://www.costco.com/sports-fitness.html	Sports &amp; Fitness	https://www.costco.com/exercise-fitness.html	Exercise &amp; Fitness	https://www.costco.com/rowers.html	Rowers
+591	https://www.costco.com/sports-fitness.html	Sports &amp; Fitness	https://www.costco.com/exercise-fitness.html	Exercise &amp; Fitness	https://www.costco.com/pilates.html	Pilates
+592	https://www.costco.com/sports-fitness.html	Sports &amp; Fitness	https://www.costco.com/exercise-fitness.html	Exercise &amp; Fitness	https://www.costco.com/exercise-bikes.html	Exercise Bikes
+593	https://www.costco.com/sports-fitness.html	Sports &amp; Fitness	https://www.costco.com/exercise-fitness.html	Exercise &amp; Fitness	https://www.costco.com/fitness-accessories.html	Fitness Accessories
+594	https://www.costco.com/sports-fitness.html	Sports &amp; Fitness	https://www.costco.com/exercise-fitness.html	Exercise &amp; Fitness	https://www.costco.com/hydration.html	Hydration
+595	https://www.costco.com/sports-fitness.html	Sports &amp; Fitness	https://www.costco.com/camping.html	Camping	https://www.costco.com/camping-chairs.html	Outdoor Chairs
+596	https://www.costco.com/sports-fitness.html	Sports &amp; Fitness	https://www.costco.com/camping.html	Camping	https://www.costco.com/air-beds.html	Air Beds &amp; Cots
+597	https://www.costco.com/sports-fitness.html	Sports &amp; Fitness	https://www.costco.com/camping.html	Camping	https://www.costco.com/backpacks-bags.html	Backpacks &amp; Bags
+598	https://www.costco.com/sports-fitness.html	Sports &amp; Fitness	https://www.costco.com/camping.html	Camping	https://www.costco.com/camp-cooking.html	Camp Cooking
+599	https://www.costco.com/sports-fitness.html	Sports &amp; Fitness	https://www.costco.com/camping.html	Camping	https://www.costco.com/camping-accessories.html	Camping Accessories
+600	https://www.costco.com/sports-fitness.html	Sports &amp; Fitness	https://www.costco.com/camping.html	Camping	https://www.costco.com/coolers.html	Coolers
+601	https://www.costco.com/sports-fitness.html	Sports &amp; Fitness	https://www.costco.com/camping.html	Camping	https://www.costco.com/sleeping-bags.html	Sleeping Bags
+602	https://www.costco.com/sports-fitness.html	Sports &amp; Fitness	https://www.costco.com/camping.html	Camping	https://www.costco.com/tents-shelters.html	Tents &amp; Shelters
+603	https://www.costco.com/sports-fitness.html	Sports &amp; Fitness	https://www.costco.com/bikes-boards.html	Bikes &amp; Boards	https://www.costco.com/bicycles.html	Bicycles
+604	https://www.costco.com/sports-fitness.html	Sports &amp; Fitness	https://www.costco.com/bikes-boards.html	Bikes &amp; Boards	https://www.costco.com/skateboards.html	Skateboards
+605	https://www.costco.com/sports-fitness.html	Sports &amp; Fitness	https://www.costco.com/sports-fitness-golf.html	Golf	https://www.costco.com/golf-bags.html	Golf Bags &amp; Carts
+606	https://www.costco.com/sports-fitness.html	Sports &amp; Fitness	https://www.costco.com/sports-fitness-golf.html	Golf	https://www.costco.com/golf-balls.html	Golf Balls
+607	https://www.costco.com/sports-fitness.html	Sports &amp; Fitness	https://www.costco.com/sports-fitness-golf.html	Golf	https://www.costco.com/golf-clubs.html	Golf Clubs
+608	https://www.costco.com/sports-fitness.html	Sports &amp; Fitness	https://www.costco.com/sports-fitness-golf.html	Golf	https://www.costco.com/golf-accessories.html	Golf Accessories
+609	https://www.costco.com/sports-fitness.html	Sports &amp; Fitness	https://www.costco.com/paddle-surf-kayaks.html	Paddle, Surf &amp; Kayaks	https://www.costco.com/boats-kayaks.html	Boats &amp; Kayaks
+610	https://www.costco.com/sports-fitness.html	Sports &amp; Fitness	https://www.costco.com/paddle-surf-kayaks.html	Paddle, Surf &amp; Kayaks	https://www.costco.com/paddle-boards.html	Paddle Boards
+611	https://www.costco.com/sports-fitness.html	Sports &amp; Fitness	https://www.costco.com/paddle-surf-kayaks.html	Paddle, Surf &amp; Kayaks	https://www.costco.com/surfboards.html	Surfboards
+612	https://www.costco.com/sports-fitness.html	Sports &amp; Fitness	https://www.costco.com/team-sports.html	Team Sports	https://www.costco.com/basketball.html	Basketball
+613	https://www.costco.com/sports-fitness.html	Sports &amp; Fitness	https://www.costco.com/game-room.html	Game Room	https://www.costco.com/arcade-darts.html	Rec Room
+614	https://www.costco.com/sports-fitness.html	Sports &amp; Fitness	https://www.costco.com/game-room.html	Game Room	https://www.costco.com/billiard-tables.html	Billiard Tables
+615	https://www.costco.com/sports-fitness.html	Sports &amp; Fitness	https://www.costco.com/game-room.html	Game Room	https://www.costco.com/air-hockey-foosball.html	Air Hockey &amp; Foosball
+616	https://www.costco.com/sports-fitness.html	Sports &amp; Fitness	https://www.costco.com/game-room.html	Game Room	https://www.costco.com/table-tennis.html	Table Tennis
+617	https://www.costco.com/sports-fitness.html	Sports &amp; Fitness	https://www.costco.com/boating-watersports.html	Boating &amp; Watersports	https://www.costco.com/toys-floats.html	Toys &amp; Floats
+618	https://www.costco.com/sports-fitness.html	Sports &amp; Fitness	https://www.costco.com/boating-watersports.html	Boating &amp; Watersports	https://www.costco.com/snorkel-vests.html	Snorkels, Vests &amp; Goggles
+619	https://www.costco.com/sports-fitness.html	Sports &amp; Fitness	https://www.costco.com/boating-watersports.html	Boating &amp; Watersports	https://www.costco.com/towables.html	Towables
+620	https://www.costco.com/sports-fitness.html	Sports &amp; Fitness	https://www.costco.com/boating-watersports.html	Boating &amp; Watersports	https://www.costco.com/docks-accessories.html	Dock &amp; Boat Accessories
+621	https://www.costco.com/sports-fitness.html	Sports &amp; Fitness	https://www.costco.com/optics.html	Optics	https://www.costco.com/binoculars.html	Binoculars &amp; Spotting Scopes
+622	https://www.costco.com/sports-fitness.html	Sports &amp; Fitness	https://www.costco.com/optics.html	Optics	https://www.costco.com/telescopes.html	Telescopes
+623	https://www.costco.com/sports-fitness.html	Sports &amp; Fitness	https://www.costco.com/optics.html	Optics	https://www.costco.com/microscopes.html	Microscopes
+624	https://www.costco.com/view-more.html	View More Categories	https://www.costco.com/specialty-categories.html	Specialty Categories	https://www.costco.com/funeral.html	Funeral
+625	https://www.costco.com/view-more.html	View More Categories	https://www.costco.com/specialty-categories.html	Specialty Categories	https://www.costco.com/costco-memberships.html	Costco Memberships
+626	https://www.costco.com/view-more.html	View More Categories	https://www.costco.com/emergency-kits-supplies.html	Emergency Kits &amp; Supplies	https://www.costco.com/all-emergency-food.html	All Emergency Food
+627	https://www.costco.com/view-more.html	View More Categories	https://www.costco.com/emergency-kits-supplies.html	Emergency Kits &amp; Supplies	https://www.costco.com/meat-dairy-eggs.html	Meat, Dairy &amp; Eggs
+628	https://www.costco.com/view-more.html	View More Categories	https://www.costco.com/emergency-kits-supplies.html	Emergency Kits &amp; Supplies	https://www.costco.com/emergency-preparedness-bulk.html	Emergency Food by the Pallet
+629	https://www.costco.com/view-more.html	View More Categories	https://www.costco.com/emergency-kits-supplies.html	Emergency Kits &amp; Supplies	https://www.costco.com/emergency-kits-supplies-emergency-kits.html	Emergency Supplies &amp; First Aid
+630	https://www.costco.com/view-more.html	View More Categories	https://www.costco.com/pet-supplies.html	Pet Supplies	https://www.costco.com/dog-food.html	Dog Food
+631	https://www.costco.com/view-more.html	View More Categories	https://www.costco.com/pet-supplies.html	Pet Supplies	https://www.costco.com/pet-food-treats.html	Dog Treats &amp; Toys
+632	https://www.costco.com/view-more.html	View More Categories	https://www.costco.com/pet-supplies.html	Pet Supplies	https://www.costco.com/dog-beds.html	Dog Beds
+633	https://www.costco.com/view-more.html	View More Categories	https://www.costco.com/pet-supplies.html	Pet Supplies	https://www.costco.com/flea-tick.html	Flea Control &amp; De-wormer
+634	https://www.costco.com/view-more.html	View More Categories	https://www.costco.com/pet-supplies.html	Pet Supplies	https://www.costco.com/houses-kennels-crates.html	Kennels &amp; Crates
+635	https://www.costco.com/view-more.html	View More Categories	https://www.costco.com/pet-supplies.html	Pet Supplies	https://www.costco.com/cat-supplies.html	Cat Food &amp; Supplies
+636	https://www.costco.com/view-more.html	View More Categories	https://www.costco.com/pet-supplies.html	Pet Supplies	https://www.costco.com/pet-supplements.html	Pet Supplements &amp; Supplies
+637	https://www.costco.com/view-more.html	View More Categories	https://www.costco.com/pet-supplies.html	Pet Supplies	https://www.costco.com/chicken-coops.html	Hives &amp; Coops
